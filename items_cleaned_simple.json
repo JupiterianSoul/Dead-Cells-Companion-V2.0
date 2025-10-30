@@ -1,0 +1,3422 @@
+[
+  {
+    "name": "Beginner'S Bow",
+    "url": "https://deadcells.fandom.com/wiki/Beginner%27s_Bow",
+    "type": "",
+    "long_description": "Beginner'S Bow Ammo Comes Back After Enemies Are Killed.The Jailer'S Son Was Getting Pretty Good At Hunting Rats With This...Internal Name Start Bow Type Ranged Weapon Scaling Combo Rate One 3-Hit Combo Every 1.3 Seconds Base Price 1 Damage Base D Ps 113 Base Combo Damage 135 Base First Hit 35 Base Second Hit 40 Base Third Hit 60",
+    "infobox": {
+      "Internal Name": "Internal Name Start Bow",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.3 Seconds",
+      "Money Cost": "Base Price 1",
+      "Base Dps": "Base D Ps 113",
+      "Combo Dmg": "Base Combo Damage 135",
+      "First Dmg": "Base First Hit 35",
+      "Second Dmg": "Base Second Hit 40",
+      "Third Dmg": "Base Third Hit 60"
+    }
+  },
+  {
+    "name": "Multiple-Nocks Bow",
+    "url": "https://deadcells.fandom.com/wiki/Multiple-nocks_Bow",
+    "type": "",
+    "long_description": "Multiple-Nocks Bow Shoots 3 Arrows At The Same Time.Internal Name Dual Bow Type Ranged Weapon Scaling Combo Rate One 3-Hit Combo Every 1.62 Seconds Base Price 2000 Damage Base D Ps 228 Base Combo Damage 370 Base First Hit 60 Base Second Hit 90 Base Third Hit 220",
+    "infobox": {
+      "Internal Name": "Internal Name Dual Bow",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.62 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 228",
+      "Combo Dmg": "Base Combo Damage 370",
+      "First Dmg": "Base First Hit 60",
+      "Second Dmg": "Base Second Hit 90",
+      "Third Dmg": "Base Third Hit 220"
+    }
+  },
+  {
+    "name": "Bow And Endless Quiver",
+    "url": "https://deadcells.fandom.com/wiki/Bow_and_Endless_Quiver",
+    "type": "",
+    "long_description": "Bow And Endless Quiver Unlimited Ammo. Last Shot Is Acritical Hit!\"You Can Never Have Too Many Arrows\" - Legolas Internal Name Infinite Bow Type Ranged Weapon Scaling Combo Rate One 3-Hit Combo Every 1.35 Seconds Base Price 1750 Damage Base D Ps 121 (175)Base Combo Damage 236 Base First Hit 40 Base Second Hit 52 Base Third Hit 144 Blueprint Location Drops From Undead Archers Drop Chance 0.03%Unlock Cost 35",
+    "infobox": {
+      "Internal Name": "Internal Name Infinite Bow",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.35 Seconds",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 121 (175)",
+      "Combo Dmg": "Base Combo Damage 236",
+      "First Dmg": "Base First Hit 40",
+      "Second Dmg": "Base Second Hit 52",
+      "Third Dmg": "Base Third Hit 144",
+      "Blueprint Location": "Location Drops From Undead Archers",
+      "Blueprint Chance": "Drop Chance 0.03%",
+      "Blueprint Cost": "Unlock Cost 35"
+    }
+  },
+  {
+    "name": "Marksman'S Bow",
+    "url": "https://deadcells.fandom.com/wiki/Marksman%27s_Bow",
+    "type": "",
+    "long_description": "Marksman'S Bow Inflicts Acritical Hitat Long Range.Slow, But Devastating At Long Range. A Sniper'S Delight.Internal Name Long Bow Type Ranged Weapon Scaling Combo Rate One Hit Every 0.75 Seconds Base Price 2250 Damage Base D Ps 55 (327)Base Hit 30 (180)Blueprint Location Timed Door Room Between Promenade Of The Condemnedand Ossuary Unlock Cost 5",
+    "infobox": {
+      "Internal Name": "Internal Name Long Bow",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.75 Seconds",
+      "Money Cost": "Base Price 2250",
+      "Base Dps": "Base D Ps 55 (327)",
+      "Single Dmg": "Base Hit 30 (180)",
+      "Blueprint Location": "Location Timed Door Room Between Promenade Of The Condemnedand Ossuary",
+      "Blueprint Cost": "Unlock Cost 5"
+    }
+  },
+  {
+    "name": "Sonic Carbine",
+    "url": "https://deadcells.fandom.com/wiki/Sonic_Carbine",
+    "type": "",
+    "long_description": "Sonic Carbine Fires Through Enemies And Keeps Shooting When Held Down. Inflictcritical Hitsto The Targets Behind The First Enemy.Internal Name Sonic Crossbow Type Ranged Weapon Scaling Combo Rate One Hit Every 0.47 Seconds Base Price 2000 Damage[A]Base D Ps 227 (445)Base Hit 30 (60)Blueprint Location Secret Area In The 5 B Sc Biome; Requires Apex Key Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Sonic Crossbow",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.47 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 227 (445)",
+      "Single Dmg": "Base Hit 30 (60)",
+      "Blueprint Location": "Location Secret Area In The 5 B Sc Biome; Requires Apex Key",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Infantry Bow",
+    "url": "https://deadcells.fandom.com/wiki/Infantry_Bow",
+    "type": "",
+    "long_description": "Infantry Bow Inflicts Acritical Hitat Close Range.A Bow Specially Designed For Hand-To-Hand Combat.Internal Name Close Combat Bow Type Ranged Weapon Scaling Combo Rate One Hit Every 0.6 Seconds Base Price 2000 Damage Base D Ps 78 (217)Base Hit 31 (87)Blueprint Location Drops From Undead Archers Drop Chance 1.7%Unlock Cost 5",
+    "infobox": {
+      "Internal Name": "Internal Name Close Combat Bow",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.6 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 78 (217)",
+      "Single Dmg": "Base Hit 31 (87)",
+      "Blueprint Location": "Location Drops From Undead Archers",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 5"
+    }
+  },
+  {
+    "name": "Quick Bow",
+    "url": "https://deadcells.fandom.com/wiki/Quick_Bow",
+    "type": "",
+    "long_description": "Quick Bow Inflicts Acritical Hitif The Target Has 3 Or More Arrows Stuck In Its Body.Speed At The Cost Of Precision.Internal Name Fast Bow Type Ranged Weapon Scaling Combo Rate One Hit Every 0.3 Seconds Base Price 2000 Damage Base D Ps 75 (203)Base Hit 15 (41)Blueprint Location Secret Area At The Beginning Of Prisoners' Quarters- 3Rd Run Onward Only Unlock Cost 5",
+    "infobox": {
+      "Internal Name": "Internal Name Fast Bow",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.3 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 75 (203)",
+      "Single Dmg": "Base Hit 15 (41)",
+      "Blueprint Location": "Location Secret Area At The Beginning Of Prisoners' Quarters- 3Rd Run Onward Only",
+      "Blueprint Cost": "Unlock Cost 5"
+    }
+  },
+  {
+    "name": "Ice Bow",
+    "url": "https://deadcells.fandom.com/wiki/Ice_Bow",
+    "type": "",
+    "long_description": "Ice Bow Brieflyfreezesenemies.Internal Name Frost Bow Type Ranged Weapon Scaling Combo Rate One Hit Every 0.79 Seconds Base Price 1750 Damage Base D Ps 46 Base Hit 27 Blueprint Location Drops From Undead Archers Drop Chance 0.4%Unlock Cost 20",
+    "infobox": {
+      "Internal Name": "Internal Name Frost Bow",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.79 Seconds",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 46",
+      "Single Dmg": "Base Hit 27",
+      "Blueprint Location": "Location Drops From Undead Archers",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 20"
+    }
+  },
+  {
+    "name": "Heavy Crossbow",
+    "url": "https://deadcells.fandom.com/wiki/Heavy_Crossbow",
+    "type": "",
+    "long_description": "Primary Ability Secondary Ability Heavy Crossbow Shoots Several Short-Range Bolts At Once.A Point-Blank Blast.Internal Name Cross Bow Type Ranged Weapon Scaling Combo Rate One Hit Every 1.57 Seconds Base Price 2250 Damage Base D Ps 280 (560)Base Hit 300 (600)Reload Reload The Heavy Crossbow. The Next Shot Inflicts Acritical Hit.A Point-Blank Blast.Internal Name Cross Bow Off Hand Type Ranged Weapon Scaling Combo Rate One Reload Every 1.7 Seconds Base Price 2250 Blueprint Location Drops From The Concierge(3Rd Kill)Unlock Cost 80",
+    "infobox": {
+      "Internal Name": "Internal Name Cross Bow",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 1.57 Seconds",
+      "Money Cost": "Base Price 2250",
+      "Base Dps": "Base D Ps 280 (560)",
+      "Single Dmg": "Base Hit 300 (600)",
+      "Internal Name 2": "Internal Name Cross Bow Off Hand",
+      "Type 2": "Type Ranged Weapon",
+      "Scaling 2": "Scaling",
+      "Combo 2": "Combo Rate One Reload Every 1.7 Seconds",
+      "Money Cost 2": "Base Price 2250",
+      "Blueprint Location": "Location Drops From The Concierge(3Rd Kill)",
+      "Blueprint Cost": "Unlock Cost 80"
+    }
+  },
+  {
+    "name": "Repeater Crossbow",
+    "url": "https://deadcells.fandom.com/wiki/Repeater_Crossbow",
+    "type": "",
+    "long_description": "Primary Ability Secondary Ability Repeater Crossbow Rapid Fires Bolts Inflictingcritical Hitsonrootedtargets.Internal Name Multi Cross Bow Type Ranged Weapon Scaling Combo Rate One Hit Every 0.13 Seconds Base Price 2250 Damage Base D Ps 115 (323)Base Hit 15 (42)Quiver Of Bolts Fires A Volley Of Boltsrootingenemies And Inflicting 15 D Ps For 3 Seconds.Internal Name Multi Cross Bow Off Hand Type Ranged Weapon Scaling Duration 3 Seconds (Root Effect)Base Price 2250 Damage Base D Ps 73 Base Hit 5 Blueprint Location Drops From Dark Trackers Drop Chance 0.4%Unlock Cost 80",
+    "infobox": {
+      "Internal Name": "Internal Name Multi Cross Bow",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.13 Seconds",
+      "Money Cost": "Base Price 2250",
+      "Base Dps": "Base D Ps 115 (323)",
+      "Single Dmg": "Base Hit 15 (42)",
+      "Internal Name 2": "Internal Name Multi Cross Bow Off Hand",
+      "Type 2": "Type Ranged Weapon",
+      "Scaling 2": "Scaling",
+      "Duration 2": "Duration 3 Seconds (Root Effect)",
+      "Money Cost 2": "Base Price 2250",
+      "Base Dps 2": "Base D Ps 73",
+      "Single Dmg 2": "Base Hit 5",
+      "Blueprint Location": "Location Drops From Dark Trackers",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 80"
+    }
+  },
+  {
+    "name": "Ice Crossbow",
+    "url": "https://deadcells.fandom.com/wiki/Ice_Crossbow",
+    "type": "",
+    "long_description": "Primary Ability Secondary Ability Ice Crossbow Freezesthe Enemy.Internal Name Frost Cross Bow Type Ranged Weapon Scaling Combo Rate One Hit Every 0.4 Seconds Base Price 2250 Damage Base D Ps 60 Base Hit 24 Piercing Shot Fires Piercing Bolts, Inflictingcritical Hitsand Returning Bolts Lodged Infrozenenemies.Internal Name Frost Cross Bow Off Hand Type Ranged Weapon Scaling Combo Rate One Hit Every 0.9 Seconds Base Price 2250 Damage Base D Ps 47 (235)Base Hit 40 (200)Blueprint Location Drops From The Time Keeper(4Th Kill)Unlock Cost 80",
+    "infobox": {
+      "Internal Name": "Internal Name Frost Cross Bow",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.4 Seconds",
+      "Money Cost": "Base Price 2250",
+      "Base Dps": "Base D Ps 60",
+      "Single Dmg": "Base Hit 24",
+      "Internal Name 2": "Internal Name Frost Cross Bow Off Hand",
+      "Type 2": "Type Ranged Weapon",
+      "Scaling 2": "Scaling",
+      "Combo 2": "Combo Rate One Hit Every 0.9 Seconds",
+      "Money Cost 2": "Base Price 2250",
+      "Base Dps 2": "Base D Ps 47 (235)",
+      "Single Dmg 2": "Base Hit 40 (200)",
+      "Blueprint Location": "Location Drops From The Time Keeper(4Th Kill)",
+      "Blueprint Cost": "Unlock Cost 80"
+    }
+  },
+  {
+    "name": "Explosive Crossbow",
+    "url": "https://deadcells.fandom.com/wiki/Explosive_Crossbow",
+    "type": "",
+    "long_description": "Primary Ability Secondary Ability Explosive Crossbow Bolts Explode In The Area Of Effect. Any Enemy Hit By A Bolt Suffers Acritical Wound.Internal Name Explosive Cross Bow Type Ranged Weapon Scaling Combo Rate One Hit Every 0.8 Seconds Base Price 2250 Damage Base D Ps 143 (243)Base Hit 100 (170)Cross Hit Hit 'Em With The Crossbow.Internal Name Explosive Cross Bow Off Hand Type Melee Weapon Scaling Combo Rate One Hit Every 0.65 Seconds Base Price 2250 Damage Base D Ps 55 (191)Base Hit 30 (105)Blueprint Location Puzzle Tower In The Promenade Of The Condemned; Requires 3 Gardener'S Keys Unlock Cost 80",
+    "infobox": {
+      "Internal Name": "Internal Name Explosive Cross Bow",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.8 Seconds",
+      "Money Cost": "Base Price 2250",
+      "Base Dps": "Base D Ps 143 (243)",
+      "Single Dmg": "Base Hit 100 (170)",
+      "Internal Name 2": "Internal Name Explosive Cross Bow Off Hand",
+      "Type 2": "Type Melee Weapon",
+      "Scaling 2": "Scaling",
+      "Combo 2": "Combo Rate One Hit Every 0.65 Seconds",
+      "Money Cost 2": "Base Price 2250",
+      "Base Dps 2": "Base D Ps 55 (191)",
+      "Single Dmg 2": "Base Hit 30 (105)",
+      "Blueprint Location": "Location Puzzle Tower In The Promenade Of The Condemned; Requires 3 Gardener'S Keys",
+      "Blueprint Cost": "Unlock Cost 80"
+    }
+  },
+  {
+    "name": "Alchemic Carbine",
+    "url": "https://deadcells.fandom.com/wiki/Alchemic_Carbine",
+    "type": "",
+    "long_description": "Alchemic Carbine Poisonsits Victims (13 D Ps For 4 Sec).Internal Name Alchemic Gun Type Ranged Weapon Scaling Combo Rate One Hit Every 1.1 Seconds Duration 4 Seconds (Poisoneffect)Ao E Duration 3 Seconds (Poisoncloud)Base Price 2000 Damage Base D Ps 9 Base Hit 10 Base Do T D Ps 13 (Poisoneffect)Blueprint Location Secret Area In The Ancient Sewers Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Alchemic Gun",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 1.1 Seconds",
+      "Duration": "Duration 4 Seconds (Poisoneffect)",
+      "Aoe Duration": "Ao E Duration 3 Seconds (Poisoncloud)",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 9",
+      "Single Dmg": "Base Hit 10",
+      "Dot Dps": "Base Do T D Ps 13 (Poisoneffect)",
+      "Blueprint Location": "Location Secret Area In The Ancient Sewers",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Boomerang",
+    "url": "https://deadcells.fandom.com/wiki/Boomerang",
+    "type": "",
+    "long_description": "Boomerang Comes Back To You Automatically.Old Faithful.Internal Name Boomerang Type Ranged Weapon Scaling Combo Rate One Hit Every 0.5 Seconds Base Price 1250 Damage Base D Ps 156 Base Hit 42 Blueprint Location Ending Area Of High Peak Castle; Requires Castle Key Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Boomerang",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.5 Seconds",
+      "Money Cost": "Base Price 1250",
+      "Base Dps": "Base D Ps 156",
+      "Single Dmg": "Base Hit 42",
+      "Blueprint Location": "Location Ending Area Of High Peak Castle; Requires Castle Key",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Hemorrhage",
+    "url": "https://deadcells.fandom.com/wiki/Hemorrhage",
+    "type": "",
+    "long_description": "Hemorrhage Causesbleeding(25 D Ps For 3 Seconds). Deals Acritical Hitif The Target Isbleedingorpoisoned.Internal Name Bleed Axe Type Ranged Weapon Scaling Combo Rate One Hit Every 0.75 Seconds Base Price 1750 Damage Base D Ps 47 (187)Base Hit 35 (140)Blueprint Location Drops From Magistrates Of Death Drop Chance 10%Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Bleed Axe",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.75 Seconds",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 47 (187)",
+      "Single Dmg": "Base Hit 35 (140)",
+      "Blueprint Location": "Location Drops From Magistrates Of Death",
+      "Blueprint Chance": "Drop Chance 10%",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "The Boy'S Axe",
+    "url": "https://deadcells.fandom.com/wiki/The_Boy%27s_Axe",
+    "type": "",
+    "long_description": "The Boy'S Axe Rootsthe Victim. Deals 80 Damage When Recalled.Boi.Internal Name God Axe Type Ranged Weapon Scaling Combo Rate One Hit Every 0.32 Seconds Base Price 1500 Damage Base D Ps 159 Base Combo Damage 130 Base Hit 50 Base Bonus Hit 80 Blueprint Location Drops From Ground Shakers Drop Chance 1.7%Unlock Cost 40",
+    "infobox": {
+      "Internal Name": "Internal Name God Axe",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.32 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 159",
+      "Combo Dmg": "Base Combo Damage 130",
+      "Single Dmg": "Base Hit 50",
+      "Extra Dmg": "Base Bonus Hit 80",
+      "Blueprint Location": "Location Drops From Ground Shakers",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 40"
+    }
+  },
+  {
+    "name": "War Javelin",
+    "url": "https://deadcells.fandom.com/wiki/War_Javelin",
+    "type": "",
+    "long_description": "War Javelin Impales All Enemies In Its Path. If They'Re Close To A Wall They Take 90 Extra Damage. The Javelin Must Be Retrieved (If Not, It Comes Back Automatically After 10 Seconds). Reactivate To Teleport To The Javelin.Internal Name Throwing Spear Type Ranged Weapon Scaling Combo Rate One Hit Every 0.8 Seconds Base Price 1250 Damage Base D Ps 110 Base Hit 55 Base Bonus Hit 90 Blueprint Location Secret Area Near The End Of The Cavern Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Throwing Spear",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.8 Seconds",
+      "Money Cost": "Base Price 1250",
+      "Base Dps": "Base D Ps 110",
+      "Single Dmg": "Base Hit 55",
+      "Extra Dmg": "Base Bonus Hit 90",
+      "Blueprint Location": "Location Secret Area Near The End Of The Cavern",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Hokuto'S Bow",
+    "url": "https://deadcells.fandom.com/wiki/Hokuto%27s_Bow",
+    "type": "",
+    "long_description": "Hokuto'S Bow Marks The Enemy, Who Then Takes +52 D Ps For 15 Sec. If The Enemy Dies, The Mark Spreads.You Don'T Know It Yet, But You'Re Already Dead.Internal Name Mark Bow Type Ranged Weapon Scaling Combo Rate One Hit Every 0.5 Seconds Duration 15 Seconds (Mark Boost)Base Price 2250 Damage Base D Ps 25 Base Hit 10 Base Bonus Hit+52 D Ps (Mark Boost)Blueprint Location Drops From Cannibals Drop Chance 1.7%Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Mark Bow",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.5 Seconds",
+      "Duration": "Duration 15 Seconds (Mark Boost)",
+      "Money Cost": "Base Price 2250",
+      "Base Dps": "Base D Ps 25",
+      "Single Dmg": "Base Hit 10",
+      "Extra Dmg": "Base Bonus Hit+52 D Ps (Mark Boost)",
+      "Blueprint Location": "Location Drops From Cannibals",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Nerves Of Steel",
+    "url": "https://deadcells.fandom.com/wiki/Nerves_of_Steel",
+    "type": "",
+    "long_description": "Nerves Of Steel Inflicts Acritical Hitif The Arrow Is Shot At Right Moment.Internal Name Precise Bow Type Ranged Weapon Scaling Combo Rate One Hit Every 0.4 Seconds Base Price 1500 Damage Base D Ps 80 (341)Base Hit 32 (205)Blueprint Location Secret Area At The End Of Ramparts Unlock Cost 60",
+    "infobox": {
+      "Internal Name": "Internal Name Precise Bow",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.4 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 80 (341)",
+      "Single Dmg": "Base Hit 32 (205)",
+      "Blueprint Location": "Location Secret Area At The End Of Ramparts",
+      "Blueprint Cost": "Unlock Cost 60"
+    }
+  },
+  {
+    "name": "Throwing Knife",
+    "url": "https://deadcells.fandom.com/wiki/Throwing_Knife",
+    "type": "",
+    "long_description": "Throwing Knife Causesbleeding(22 D Ps For 3 Sec). Automatically Targets The Nearest Enemy.Internal Name Throwing Knife Type Ranged Weapon Scaling Combo Rate One Hit Every 0.35 Seconds Duration 3 Seconds (Bleedeffect)Base Price 1750 Damage Base D Ps 14 Base Hit 5 Base Bonus Hit 22 D Ps (Bleedeffect)",
+    "infobox": {
+      "Internal Name": "Internal Name Throwing Knife",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.35 Seconds",
+      "Duration": "Duration 3 Seconds (Bleedeffect)",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 14",
+      "Single Dmg": "Base Hit 5",
+      "Extra Dmg": "Base Bonus Hit 22 D Ps (Bleedeffect)"
+    }
+  },
+  {
+    "name": "Electric Whip",
+    "url": "https://deadcells.fandom.com/wiki/Electric_Whip",
+    "type": "",
+    "long_description": "Electric Whip Ignored Shields And Inflicts 50% Of The Base Damage On Nearby Enemies. Also Inflicts 25Shock Dp S Around The Target For 3 Seconds.Internal Name Lightning Whip Type Ranged Weapon Scaling Combo Rate One 3-Hit Combo Every 0.76 Seconds Duration 3 Seconds (Shockeffect)Base Price 1750 Damage Base D Ps 112 (201)Base Combo Damage 85 (153)Base First Hit 15 (23)Base Second Hit 20 (30)Base Third Hit 50 (100)Base Do T D Ps 25 (Shockeffect)",
+    "infobox": {
+      "Internal Name": "Internal Name Lightning Whip",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 0.76 Seconds",
+      "Duration": "Duration 3 Seconds (Shockeffect)",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 112 (201)",
+      "Combo Dmg": "Base Combo Damage 85 (153)",
+      "First Dmg": "Base First Hit 15 (23)",
+      "Second Dmg": "Base Second Hit 20 (30)",
+      "Third Dmg": "Base Third Hit 50 (100)",
+      "Dot Dps": "Base Do T D Ps 25 (Shockeffect)"
+    }
+  },
+  {
+    "name": "Firebrands",
+    "url": "https://deadcells.fandom.com/wiki/Firebrands",
+    "type": "",
+    "long_description": "Firebrands Burnsenemies And The Ground (19 D Ps For 3 Sec).Light My Fire !Internal Name Throwing Torch Type Ranged Weapon Scaling Combo Rate One Hit Every 0.65 Seconds Duration 3 Seconds (Burningeffect)Base Price 1750 Damage Base D Ps 31 Base Hit 20 Base Do T D Ps 19 (Burningeffect)",
+    "infobox": {
+      "Internal Name": "Internal Name Throwing Torch",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.65 Seconds",
+      "Duration": "Duration 3 Seconds (Burningeffect)",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 31",
+      "Single Dmg": "Base Hit 20",
+      "Dot Dps": "Base Do T D Ps 19 (Burningeffect)"
+    }
+  },
+  {
+    "name": "Ice Shards",
+    "url": "https://deadcells.fandom.com/wiki/Ice_Shards",
+    "type": "",
+    "long_description": "Ice Shards Slows Downenemies During 3 Sec. Inflictscritical Hitson Targets Standing In Water Or Covered Inoil.Internal Name Throwing Ice Type Ranged Weapon Scaling Combo Rate One Hit Every 0.38 Seconds Base Price 1750 Damage Base D Ps 53 (68)Base Hit 20 (26)Blueprint Location Drops From The Time Keeper(3Rd Kill)Unlock Cost 40",
+    "infobox": {
+      "Internal Name": "Internal Name Throwing Ice",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.38 Seconds",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 53 (68)",
+      "Single Dmg": "Base Hit 20 (26)",
+      "Blueprint Location": "Location Drops From The Time Keeper(3Rd Kill)",
+      "Blueprint Cost": "Unlock Cost 40"
+    }
+  },
+  {
+    "name": "Pyrotechnics",
+    "url": "https://deadcells.fandom.com/wiki/Pyrotechnics",
+    "type": "",
+    "long_description": "Pyrotechnics Launches Multiple Flaming Projectiles. Inflictscritical Damageon Targets Covered Inoil.Internal Name Fire Ball Type Ranged Weapon Scaling Combo Rate One 4-Hit Combo Every 1.36 Seconds Base Price 1750 Damage Base D Ps 102 (185)Base Combo Damage 139 (251)Base First Hit 7 (9)Base Second Hit 25 (33)Base Third Hit 7 (9)Base Fourth Hit 100 (200)Blueprint Location Drops From Casters Drop Chance 1.7%Unlock Cost 30",
+    "infobox": {
+      "Internal Name": "Internal Name Fire Ball",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 4-Hit Combo Every 1.36 Seconds",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 102 (185)",
+      "Combo Dmg": "Base Combo Damage 139 (251)",
+      "First Dmg": "Base First Hit 7 (9)",
+      "Second Dmg": "Base Second Hit 25 (33)",
+      "Third Dmg": "Base Third Hit 7 (9)",
+      "Fourth Dmg": "Base Fourth Hit 100 (200)",
+      "Blueprint Location": "Location Drops From Casters",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 30"
+    }
+  },
+  {
+    "name": "Lightning Bolt",
+    "url": "https://deadcells.fandom.com/wiki/Lightning_Bolt",
+    "type": "",
+    "long_description": "Lightning Bolt Hold To Inflictcritical Hits. Inflicts 20Shock Dp S Around The Target For 2 Seconds.Join The Dark Side.Internal Name Lightning Type Ranged Weapon Scaling Combo Rate One Hit Every 0.45 Seconds Base Price 1750 Damage Base D Ps 111 (362)Base Hit 30 (93)Blueprint Location Drops From Inquisitors Drop Chance 1.7%Unlock Cost 30",
+    "infobox": {
+      "Internal Name": "Internal Name Lightning",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.45 Seconds",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 111 (362)",
+      "Single Dmg": "Base Hit 30 (93)",
+      "Blueprint Location": "Location Drops From Inquisitors",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 30"
+    }
+  },
+  {
+    "name": "Fire Blast",
+    "url": "https://deadcells.fandom.com/wiki/Fire_Blast",
+    "type": "",
+    "long_description": "Fire Blast Burnsenemies And The Ground Surface In Range. Inflictscritical Hitswhenoilis Present.Toasts Enemies To A Rich Golden Brown.Internal Name Flame Thrower Type Ranged Weapon Scaling Combo Rate One Hit Every 0.51 Seconds Base Price 1750 Damage Base D Ps 169 (223)Base Hit 12 (18)Blueprint Location Drops From Maskers Drop Chance 1.7%Unlock Cost 20",
+    "infobox": {
+      "Internal Name": "Internal Name Flame Thrower",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.51 Seconds",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 169 (223)",
+      "Single Dmg": "Base Hit 12 (18)",
+      "Blueprint Location": "Location Drops From Maskers",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 20"
+    }
+  },
+  {
+    "name": "Frost Blast",
+    "url": "https://deadcells.fandom.com/wiki/Frost_Blast",
+    "type": "",
+    "long_description": "Frost Blast Freezesenemies In Front Of You. No Damage If The Target Is Alreadyfrozen.Internal Name Freeze Type Ranged Weapon Scaling Combo Rate One Hit Every 0.93 Seconds Duration 3 Seconds (Freezeeffect)Base Price 1750 Damage Base D Ps 48 Base Hit 35",
+    "infobox": {
+      "Internal Name": "Internal Name Freeze",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.93 Seconds",
+      "Duration": "Duration 3 Seconds (Freezeeffect)",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 48",
+      "Single Dmg": "Base Hit 35"
+    }
+  },
+  {
+    "name": "Magic Missiles",
+    "url": "https://deadcells.fandom.com/wiki/Magic_Missiles",
+    "type": "",
+    "long_description": "Magic Missiles Automatically Targets The Closest Enemy.Internal Name Magic Salve Type Ranged Weapon Scaling Combo Rate One 5-Hit Combo Every 1.22 Seconds Base Price 1750 Damage Base D Ps 164 Base Combo Damage 200 Base First Hit 25 Base Second Hit 25 Base Third Hit 35 Base Fourth Hit 50 Base Fifth Hit 65 Blueprint Location Drops From Arbiters Drop Chance 0.4%Unlock Cost 40",
+    "infobox": {
+      "Internal Name": "Internal Name Magic Salve",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 5-Hit Combo Every 1.22 Seconds",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 164",
+      "Combo Dmg": "Base Combo Damage 200",
+      "First Dmg": "Base First Hit 25",
+      "Second Dmg": "Base Second Hit 25",
+      "Third Dmg": "Base Third Hit 35",
+      "Fourth Dmg": "Base Fourth Hit 50",
+      "Fifth Dmg": "Base Fifth Hit 65",
+      "Blueprint Location": "Location Drops From Arbiters",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 40"
+    }
+  },
+  {
+    "name": "Blowgun",
+    "url": "https://deadcells.fandom.com/wiki/Blowgun",
+    "type": "",
+    "long_description": "Blowgun Poisonits Victims (15 D Ps For 2 Sec). Inflictscritical Hitsif You Hit Enemies In The Back.Internal Name Blowgun Type Ranged Weapon Scaling Combo Rate One Hit Every 0.35 Seconds Duration 2 Seconds (Poisoneffect)Base Price 1750 Damage Base D Ps 57 (343)Base Hit 20 (120)Base Do T D Ps 15 (Poisoneffect)Blueprint Location Drops From Blowgunners Drop Chance 1.7%Unlock Cost 40",
+    "infobox": {
+      "Internal Name": "Internal Name Blowgun",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.35 Seconds",
+      "Duration": "Duration 2 Seconds (Poisoneffect)",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 57 (343)",
+      "Single Dmg": "Base Hit 20 (120)",
+      "Dot Dps": "Base Do T D Ps 15 (Poisoneffect)",
+      "Blueprint Location": "Location Drops From Blowgunners",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 40"
+    }
+  },
+  {
+    "name": "Barrel Launcher",
+    "url": "https://deadcells.fandom.com/wiki/Barrel_Launcher",
+    "type": "",
+    "long_description": "Barrel Launcher Launches An Explosive Barrel. Inflicts Acritical Hitif The Barrel Bounces Off A Wall Or Has Been Reflected Back And Forth Before Exploding.Internal Name Barrel Launcher Type Ranged Weapon Scaling Combo Rate One Hit Every 0.9 Seconds Base Price 2250 Damage Base D Ps 171 (514)Base Hit 120 (360)Blueprint Location Drops From Infected Workers Drop Chance 0.4%Unlock Cost 80",
+    "infobox": {
+      "Internal Name": "Internal Name Barrel Launcher",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.9 Seconds",
+      "Money Cost": "Base Price 2250",
+      "Base Dps": "Base D Ps 171 (514)",
+      "Single Dmg": "Base Hit 120 (360)",
+      "Blueprint Location": "Location Drops From Infected Workers",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 80"
+    }
+  },
+  {
+    "name": "Killing Deck",
+    "url": "https://deadcells.fandom.com/wiki/Killing_Deck",
+    "type": "",
+    "long_description": "Killing Deck Shoots Cards In Various Patterns. The Fourth Hit Recalls All The Cards, Dealingcritical Damage.Using Cards As A Weapon Is Quite The Gambit...Internal Name Throwing Cards Type Ranged Weapon Scaling Base Price 1750 Damage Base D Ps 71 (84)Base First Hit 45 Base Second Hit 40 × 2 Base Third Hit 24 × 7 Base Fourth Hit 48Each Card Blueprint Location Drops From Armored Shrimps Drop Chance 1.7%Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Throwing Cards",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 71 (84)",
+      "First Dmg": "Base First Hit 45",
+      "Second Dmg": "Base Second Hit 40 × 2",
+      "Third Dmg": "Base Third Hit 24 × 7",
+      "Fourth Dmg": "Base Fourth Hit 48Each Card",
+      "Blueprint Location": "Location Drops From Armored Shrimps",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Gilded Yumi",
+    "url": "https://deadcells.fandom.com/wiki/Gilded_Yumi",
+    "type": "",
+    "long_description": "Gilded Yumi Fires Large Arrows That Push Enemies. Stuns And Inflictscritical Damageif It Bumps Its Target Into A Wall Or Another Enemy.Surprisingly Easy To Use, Considering The Tree Trunk-Sized Arrows It Fires.Internal Name Heavy Bow Type Ranged Weapon Scaling Base Price 2000 Damage Base D Ps 69 (208)Base Hit 45 Base Bonus Hit 135(Wall Damage)Blueprint Location Drops From Euterpewhen Killed Last Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Heavy Bow",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 69 (208)",
+      "Single Dmg": "Base Hit 45",
+      "Extra Dmg": "Base Bonus Hit 135(Wall Damage)",
+      "Blueprint Location": "Location Drops From Euterpewhen Killed Last",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Money Shooter",
+    "url": "https://deadcells.fandom.com/wiki/Money_Shooter",
+    "type": "",
+    "long_description": "Money Shooter Fires 150 Gold Taken From Your Pockets To Dealcritical Damage. Won’T Fire If You Can’T Pay.Shut Up And Shoot My Money!Internal Name Money Shooter Type Ranged Weapon Scaling Combo Rate One 2-Hit Combo Every 0.9 Seconds Base Price 2000 Damage Base D Ps 667 Base Combo Damage 600 Base First Hit 300 Base Second Hit 300 Blueprint Location Drops From Golden Kamikazes Drop Chance 1.7%Unlock Cost 80",
+    "infobox": {
+      "Internal Name": "Internal Name Money Shooter",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 2-Hit Combo Every 0.9 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 667",
+      "Combo Dmg": "Base Combo Damage 600",
+      "First Dmg": "Base First Hit 300",
+      "Second Dmg": "Base Second Hit 300",
+      "Blueprint Location": "Location Drops From Golden Kamikazes",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 80"
+    }
+  },
+  {
+    "name": "Magic Bow",
+    "url": "https://deadcells.fandom.com/wiki/Magic_Bow",
+    "type": "",
+    "long_description": "Magic Bow Fires Homing Arrows That Deal More Damage If They Hit The Same Enemy.Just Close Your Eyes And Shoot!Internal Name Magic Bow Type Ranged Weapon Scaling Combo Rate One Hit Every 1.5 Seconds Base Price 1500 Damage Base D Ps 21 Base Combo Damage 125 Base Hit 25 Blueprint Location Lore Room In The Prisoners' Quarters Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Magic Bow",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 1.5 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 21",
+      "Combo Dmg": "Base Combo Damage 125",
+      "Single Dmg": "Base Hit 25",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Peril Glyphs",
+    "url": "https://deadcells.fandom.com/wiki/Peril_Glyphs",
+    "type": "",
+    "long_description": "Peril Glyphs This Weapon'S Combo Gets Longer In Proportion To Your Missing Health. Dealscritical Damagestarting From The Third Hit.Can Also Double As Domestic Incense, Even In A Foul-Smelling Prison.Internal Name Hydra Spell Type Ranged Weapon Scaling Combo Rate One 7-Hit Combo Every 2.58 Seconds Base Price 2000 Damage Base D Ps 157 (279)Base Combo Damage 635 Base First Hit 42 Base Second Hit 37 Base Third Hit 68 Base Fourth Hit 74 Base Fifth Hit 94 Base Sixth Hit 130 Base Seventh Hit 190 Blueprint Location Reward For Beating The 1St Stage In Boss Rush Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Hydra Spell",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 7-Hit Combo Every 2.58 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 157 (279)",
+      "Combo Dmg": "Base Combo Damage 635",
+      "First Dmg": "Base First Hit 42",
+      "Second Dmg": "Base Second Hit 37",
+      "Third Dmg": "Base Third Hit 68",
+      "Fourth Dmg": "Base Fourth Hit 74",
+      "Fifth Dmg": "Base Fifth Hit 94",
+      "Sixth Dmg": "Base Sixth Hit 130",
+      "Seventh Dmg": "Base Seventh Hit 190",
+      "Blueprint Location": "Location Reward For Beating The 1St Stage In Boss Rush",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Throwable Objects",
+    "url": "https://deadcells.fandom.com/wiki/Throwable_Objects",
+    "type": "",
+    "long_description": "Throwable Objects Stuns Any Enemy It Hits. Recharge 1 Ammo Every Time You Kill An Enemy.Vase, Flower Pot, Bottle, Knife,... No Matter What You Can Grab, As Long As You Can Throw It, You'Re Game.Internal Name Throwable Stuff Type Ranged Weapon Scaling Combo Rate One Hit Every 0.17S Base Price 2000 Damage Base D Ps 382 Base First Hit 65 Blueprint Location Lore Room In The Prisoners' Quarters",
+    "infobox": {
+      "Internal Name": "Internal Name Throwable Stuff",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.17S",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 382",
+      "First Dmg": "Base First Hit 65",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters"
+    }
+  },
+  {
+    "name": "Laser Glaive",
+    "url": "https://deadcells.fandom.com/wiki/Laser_Glaive",
+    "type": "",
+    "long_description": "Laser Glaive Bounces On Nearby Targets, Dealing More And More Damage Each Time And Dealingcritical Damageafter 2 Bounces.Weakness In Numbers.Internal Name Laser Glaive Type Ranged Weapon Scaling Combo Rate One Hit Every 1.3S Base Price 2000 Damage Base D Ps 70 (474)Base First Hit 42 Base Second Hit 42 Base Third Hit 84 Base Fourth Hit 105 Base Fifth Hit 131 Base Sixth Hit 164 Blueprint Location Lore Room In The Prisoners' Quarters",
+    "infobox": {
+      "Internal Name": "Internal Name Laser Glaive",
+      "Type": "Type Ranged Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 1.3S",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 70 (474)",
+      "First Dmg": "Base First Hit 42",
+      "Second Dmg": "Base Second Hit 42",
+      "Third Dmg": "Base Third Hit 84",
+      "Fourth Dmg": "Base Fourth Hit 105",
+      "Fifth Dmg": "Base Fifth Hit 131",
+      "Sixth Dmg": "Base Sixth Hit 164",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters"
+    }
+  },
+  {
+    "name": "Whip Sword",
+    "url": "https://deadcells.fandom.com/wiki/Whip_Sword",
+    "type": "",
+    "long_description": "Primary Ability Secondary Ability Sword Can Be Transformed In-Between Two Attacks To Dealcritical Damagefor The Next 1.5 Seconds.Sharp As The Snake'S Fang.Internal Name Snake Sword Weapon Type Melee Weapon Scaling Combo Rate 4-Hit Combo Every 1.68 Seconds Base Price 2000 Damage Base D Ps 217 (406)Base Combo Damage 310 (620)Base First Hit 50 (100)Base Second Hit 65 (130)Base Third Hit 95 (190)Base Fourth Hit 100 (200)Whip Can Be Transformed In-Between Two Attacks To Dealcritical Damagefor The Next 1.5 Seconds.Sinuous Like The Snake'S Coils.Internal Name Snake Sword Weapon Alt Type Melee Weapon Scaling Combo Rate 4-Hit Combo Every 1.68 Seconds Base Price 2000 Damage Base D Ps 203 (406)Base Combo Damage 285 (570)Base First Hit 45 (90)Base Second Hit 60 (120)Base Third Hit 85 (170)Base Fourth Hit 95 (190)Blueprint Location Dropped By Harpies Drop Chance(1.7%)Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Snake Sword Weapon",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate 4-Hit Combo Every 1.68 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 217 (406)",
+      "Combo Dmg": "Base Combo Damage 310 (620)",
+      "First Dmg": "Base First Hit 50 (100)",
+      "Second Dmg": "Base Second Hit 65 (130)",
+      "Third Dmg": "Base Third Hit 95 (190)",
+      "Fourth Dmg": "Base Fourth Hit 100 (200)",
+      "Internal Name 2": "Internal Name Snake Sword Weapon Alt",
+      "Type 2": "Type Melee Weapon",
+      "Scaling 2": "Scaling",
+      "Combo 2": "Combo Rate 4-Hit Combo Every 1.68 Seconds",
+      "Money Cost 2": "Base Price 2000",
+      "Base Dps 2": "Base D Ps 203 (406)",
+      "Combo Dmg 2": "Base Combo Damage 285 (570)",
+      "First Dmg 2": "Base First Hit 45 (90)",
+      "Second Dmg 2": "Base Second Hit 60 (120)",
+      "Third Dmg 2": "Base Third Hit 85 (170)",
+      "Fourth Dmg 2": "Base Fourth Hit 95 (190)",
+      "Blueprint Location": "Location Dropped By Harpies",
+      "Blueprint Chance": "Drop Chance(1.7%)",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Rusty Sword",
+    "url": "https://deadcells.fandom.com/wiki/Rusty_Sword",
+    "type": "",
+    "long_description": "Rusty Sword Kills Things. Sometimes...Internal Name Start Sword Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.19 Seconds Base Price 1 Damage Base D Ps 138 Base Combo Damage 95 Base First Hit 25 Base Second Hit 30 Base Third Hit 40",
+    "infobox": {
+      "Internal Name": "Internal Name Start Sword",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.19 Seconds",
+      "Money Cost": "Base Price 1",
+      "Base Dps": "Base D Ps 138",
+      "Combo Dmg": "Base Combo Damage 95",
+      "First Dmg": "Base First Hit 25",
+      "Second Dmg": "Base Second Hit 30",
+      "Third Dmg": "Base Third Hit 40"
+    }
+  },
+  {
+    "name": "Balanced Blade",
+    "url": "https://deadcells.fandom.com/wiki/Balanced_Blade",
+    "type": "",
+    "long_description": "Balanced Blade Damage Increases Up To +90% When You Strike Repeatedly. Inflictscritical Hitsafter 10 Successive Hits.Internal Name Quick Sword Type Melee Weapon Scaling Combo Rate One 6-Hit Combo Every 1.46 Seconds Base Price 1500 Damage Base D Ps 147-279 (230-437)Base Combo Damage 215-418 (409-768)Base First Hit 25-48 (39-74)Base Second Hit 34-67 (53-100)Base Third Hit 34-67 (53-100)Base Fourth Hit 34-67 (53-100)Base Fifth Hit 34-67 (53-100)Base Sixth Hit 54-102 (84-160)",
+    "infobox": {
+      "Internal Name": "Internal Name Quick Sword",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 6-Hit Combo Every 1.46 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 147-279 (230-437)",
+      "Combo Dmg": "Base Combo Damage 215-418 (409-768)",
+      "First Dmg": "Base First Hit 25-48 (39-74)",
+      "Second Dmg": "Base Second Hit 34-67 (53-100)",
+      "Third Dmg": "Base Third Hit 34-67 (53-100)",
+      "Fourth Dmg": "Base Fourth Hit 34-67 (53-100)",
+      "Fifth Dmg": "Base Fifth Hit 34-67 (53-100)",
+      "Sixth Dmg": "Base Sixth Hit 54-102 (84-160)"
+    }
+  },
+  {
+    "name": "Assassin'S Dagger",
+    "url": "https://deadcells.fandom.com/wiki/Assassin%27s_Dagger",
+    "type": "",
+    "long_description": "Assassin'S Dagger Inflicts Acritical Hitwhen You Stab Your Enemy In The Back.Light But Deadly If You Know How To Use It.Internal Name Back Stabber Type Melee Weapon Scaling Combo Rate One 2-Hit Combo Every 0.5 Seconds Base Price 1500 Damage Base D Ps 134 (402)Base Combo Damage 67 (201)Base First Hit 32 (96)Base Second Hit 35 (105)Blueprint Location Secret Area Near The Start Of The Promenade Of The Condemned Unlock Cost 5",
+    "infobox": {
+      "Internal Name": "Internal Name Back Stabber",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 2-Hit Combo Every 0.5 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 134 (402)",
+      "Combo Dmg": "Base Combo Damage 67 (201)",
+      "First Dmg": "Base First Hit 32 (96)",
+      "Second Dmg": "Base Second Hit 35 (105)",
+      "Blueprint Location": "Location Secret Area Near The Start Of The Promenade Of The Condemned",
+      "Blueprint Cost": "Unlock Cost 5"
+    }
+  },
+  {
+    "name": "Spite Sword",
+    "url": "https://deadcells.fandom.com/wiki/Spite_Sword",
+    "type": "",
+    "long_description": "Spite Sword Inflict Acritical Hitif You Took Damage Less Than 8 Sec Ago, Or If You'Re Cursed.A Rusty Weapon That Reveals Its Power When Things Get Tough.Internal Name Revenge Sword Type Melee Weapon Scaling Combo Rate One 4-Hit Combo Every 1.35 Seconds Base Price 1400 Damage Base D Ps 144 (255)Base Combo Damage 195 (342)Base First Hit 50 (80)Base Second Hit 55 (88)Base Third Hit 10 (16)Base Fourth Hit 80 (160)Blueprint Location Drops From Buzzcutters Drop Chance 0.03%Unlock Cost 30",
+    "infobox": {
+      "Internal Name": "Internal Name Revenge Sword",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 4-Hit Combo Every 1.35 Seconds",
+      "Money Cost": "Base Price 1400",
+      "Base Dps": "Base D Ps 144 (255)",
+      "Combo Dmg": "Base Combo Damage 195 (342)",
+      "First Dmg": "Base First Hit 50 (80)",
+      "Second Dmg": "Base Second Hit 55 (88)",
+      "Third Dmg": "Base Third Hit 10 (16)",
+      "Fourth Dmg": "Base Fourth Hit 80 (160)",
+      "Blueprint Location": "Location Drops From Buzzcutters",
+      "Blueprint Chance": "Drop Chance 0.03%",
+      "Blueprint Cost": "Unlock Cost 30"
+    }
+  },
+  {
+    "name": "Blood Sword",
+    "url": "https://deadcells.fandom.com/wiki/Blood_Sword",
+    "type": "",
+    "long_description": "Blood Sword Causesbleeding(3.5 D Ps For 12 Sec).Internal Name Bleeder Type Melee Weapon Scaling Combo Rate One 2-Hit Combo Every 0.41 Seconds Base Price 1500 Damage Base D Ps 122 Base Combo Damage 50 Base First Hit 25 Base Second Hit 25 Blueprint Location Drops From Zombies Drop Chance 100%Unlock Cost 5",
+    "infobox": {
+      "Internal Name": "Internal Name Bleeder",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 2-Hit Combo Every 0.41 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 122",
+      "Combo Dmg": "Base Combo Damage 50",
+      "First Dmg": "Base First Hit 25",
+      "Second Dmg": "Base Second Hit 25",
+      "Blueprint Location": "Location Drops From Zombies",
+      "Blueprint Chance": "Drop Chance 100%",
+      "Blueprint Cost": "Unlock Cost 5"
+    }
+  },
+  {
+    "name": "Twin Daggers",
+    "url": "https://deadcells.fandom.com/wiki/Twin_Daggers",
+    "type": "",
+    "long_description": "Twin Daggers Inflicts Acritical Hiton The 3Rd Consecutive Strike.Two Daggers For The Price Of One. Slice And Dice... Guaranteed To Please.Internal Name Dual Daggers Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.07 Seconds Base Price 1800 Damage Base D Ps 173 (257)Base Combo Damage 255 Base First Hit 40 Base Second Hit 55 Base Third Hit 180",
+    "infobox": {
+      "Internal Name": "Internal Name Dual Daggers",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.07 Seconds",
+      "Money Cost": "Base Price 1800",
+      "Base Dps": "Base D Ps 173 (257)",
+      "Combo Dmg": "Base Combo Damage 255",
+      "First Dmg": "Base First Hit 40",
+      "Second Dmg": "Base Second Hit 55",
+      "Third Dmg": "Base Third Hit 180"
+    }
+  },
+  {
+    "name": "Broadsword",
+    "url": "https://deadcells.fandom.com/wiki/Broadsword",
+    "type": "",
+    "long_description": "Broadsword The Second And Third Hits Arecritical.Slow And Heavy, But Deliciously Vicious.Internal Name Broad Sword Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 2.25 Seconds Base Price 1750 Damage Base D Ps 176 (281)Base Combo Damage 615 Base First Hit 104 Base Second Hit 168 Base Third Hit 360 Blueprint Location Drops From Tutorial Knight'S Corpse In The Prisoners' Quarters Unlock Cost 5",
+    "infobox": {
+      "Internal Name": "Internal Name Broad Sword",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 2.25 Seconds",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 176 (281)",
+      "Combo Dmg": "Base Combo Damage 615",
+      "First Dmg": "Base First Hit 104",
+      "Second Dmg": "Base Second Hit 168",
+      "Third Dmg": "Base Third Hit 360",
+      "Blueprint Location": "Location Drops From Tutorial Knight'S Corpse In The Prisoners' Quarters",
+      "Blueprint Cost": "Unlock Cost 5"
+    }
+  },
+  {
+    "name": "Shovel",
+    "url": "https://deadcells.fandom.com/wiki/Shovel",
+    "type": "",
+    "long_description": "Shovel Knocks Back Enemies And Bombs.Any Object Can Become A Deadly Weapon If It'S Moving Fast Enough...Internal Name Shovel Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.6 Seconds Base Price 1500 Damage Base D Ps 158 Base Combo Damage 252 Base First Hit 75 Base Second Hit 52 Base Third Hit 125 Blueprint Location Drops From Swarm Zombies Drop Chance 0.4%Unlock Cost 15",
+    "infobox": {
+      "Internal Name": "Internal Name Shovel",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.6 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 158",
+      "Combo Dmg": "Base Combo Damage 252",
+      "First Dmg": "Base First Hit 75",
+      "Second Dmg": "Base Second Hit 52",
+      "Third Dmg": "Base Third Hit 125",
+      "Blueprint Location": "Location Drops From Swarm Zombies",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 15"
+    }
+  },
+  {
+    "name": "Cursed Sword",
+    "url": "https://deadcells.fandom.com/wiki/Cursed_Sword",
+    "type": "",
+    "long_description": "Cursed Sword One Hit And You'Re Dead.So You Like To Play Hardball, Do Ya?Internal Name Evil Sword Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 0.76 Seconds Base Price 2500 Damage Base D Ps 618 Base Combo Damage 470 Base First Hit 135 Base Second Hit 135 Base Third Hit 200 Blueprint Location Drops From Conjunctivius(3Rd Kill)Unlock Cost 150",
+    "infobox": {
+      "Internal Name": "Internal Name Evil Sword",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 0.76 Seconds",
+      "Money Cost": "Base Price 2500",
+      "Base Dps": "Base D Ps 618",
+      "Combo Dmg": "Base Combo Damage 470",
+      "First Dmg": "Base First Hit 135",
+      "Second Dmg": "Base Second Hit 135",
+      "Third Dmg": "Base Third Hit 200",
+      "Blueprint Location": "Location Drops From Conjunctivius(3Rd Kill)",
+      "Blueprint Cost": "Unlock Cost 150"
+    }
+  },
+  {
+    "name": "Sadist'S Stiletto",
+    "url": "https://deadcells.fandom.com/wiki/Sadist%27s_Stiletto",
+    "type": "",
+    "long_description": "Sadist'S Stiletto Inflicts Acritical Hitif The Target Isbleedingorpoisoned.Hit 'Em Where It Hurts.Internal Name Bleed Crit Type Melee Weapon Scaling Combo Rate One 4-Hit Combo Every 1.15 Seconds Base Price 1500 Damage Base D Ps 109 (222)Base Combo Damage 125 (255)Base First Hit 25 (45)Base Second Hit 25 (45)Base Third Hit 25 (45)Base Fourth Hit 50 (120)Blueprint Location Drops From Impalers Drop Chance 1.7%Unlock Cost 25",
+    "infobox": {
+      "Internal Name": "Internal Name Bleed Crit",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 4-Hit Combo Every 1.15 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 109 (222)",
+      "Combo Dmg": "Base Combo Damage 125 (255)",
+      "First Dmg": "Base First Hit 25 (45)",
+      "Second Dmg": "Base Second Hit 25 (45)",
+      "Third Dmg": "Base Third Hit 25 (45)",
+      "Fourth Dmg": "Base Fourth Hit 50 (120)",
+      "Blueprint Location": "Location Drops From Impalers",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 25"
+    }
+  },
+  {
+    "name": "Swift Sword",
+    "url": "https://deadcells.fandom.com/wiki/Swift_Sword",
+    "type": "",
+    "long_description": "Swift Sword Inflicts Acritical Hitif You Have An Active Speed Buff.Forget About Taking Your Time. To Get Real Results, Strike Hard And Fast.Internal Name Speed Blade Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.2 Seconds Base Price 1750 Damage Base D Ps 137 (208)Base Combo Damage 165 (250)Base First Hit 45 (63)Base Second Hit 50 (75)Base Third Hit 70 (112)Blueprint Location Daily Run - First Completion Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Speed Blade",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.2 Seconds",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 137 (208)",
+      "Combo Dmg": "Base Combo Damage 165 (250)",
+      "First Dmg": "Base First Hit 45 (63)",
+      "Second Dmg": "Base Second Hit 50 (75)",
+      "Third Dmg": "Base Third Hit 70 (112)",
+      "Blueprint Location": "Location Daily Run - First Completion",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Giantkiller",
+    "url": "https://deadcells.fandom.com/wiki/Giantkiller",
+    "type": "",
+    "long_description": "Giantkiller Inflicts Acritical Hitif The Victim Is An Elite Enemy Or A Boss.The Bigger They Are...Internal Name Giant Killer Type Melee Weapon Scaling Combo Rate One 4-Hit Combo Per 2.45 Seconds Base Price 2500 Damage Base D Ps 127 (465)Base Combo Damage 335 (1139)Base First Hit 25 (90)Base Second Hit 35 (119)Base Third Hit 100 (450)Base Fourth Hit 150 (480)Blueprint Location Drops From The Giant(1St Kill)Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Giant Killer",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 4-Hit Combo Per 2.45 Seconds",
+      "Money Cost": "Base Price 2500",
+      "Base Dps": "Base D Ps 127 (465)",
+      "Combo Dmg": "Base Combo Damage 335 (1139)",
+      "First Dmg": "Base First Hit 25 (90)",
+      "Second Dmg": "Base Second Hit 35 (119)",
+      "Third Dmg": "Base Third Hit 100 (450)",
+      "Fourth Dmg": "Base Fourth Hit 150 (480)",
+      "Blueprint Location": "Location Drops From The Giant(1St Kill)",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Shrapnel Axes",
+    "url": "https://deadcells.fandom.com/wiki/Shrapnel_Axes",
+    "type": "",
+    "long_description": "Shrapnel Axes Metal Shards Burst From The Axes When You Strike Enemies, Inflicting Approximately 130 Damage.Internal Name Bullet Blade Type Melee Weapon Scaling Combo Rate One 5-Hit Combo Per 2.55 Seconds Base Price 2000 Damage Base D Ps 187 Base Combo Damage 477 Base First Hit 56 Base Second Hit 62 Base Third Hit 72 Base Fourth Hit 85 Base Fifth Hit 202 Base Bonus Hit 15/20/30/60/180 (325; 120 D Ps)Blueprint Location Drops From Demons Drop Chance 0.4%Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Bullet Blade",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 5-Hit Combo Per 2.55 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 187",
+      "Combo Dmg": "Base Combo Damage 477",
+      "First Dmg": "Base First Hit 56",
+      "Second Dmg": "Base Second Hit 62",
+      "Third Dmg": "Base Third Hit 72",
+      "Fourth Dmg": "Base Fourth Hit 85",
+      "Fifth Dmg": "Base Fifth Hit 202",
+      "Extra Dmg": "Base Bonus Hit 15/20/30/60/180 (325; 120 D Ps)",
+      "Blueprint Location": "Location Drops From Demons",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Seismic Strike",
+    "url": "https://deadcells.fandom.com/wiki/Seismic_Strike",
+    "type": "",
+    "long_description": "Seismic Strike Provokes Terrestrial Shock Waves Thatrootvictims.Internal Name Sismic Blade Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.91 Seconds Base Price 2000 Damage Base D Ps 131 Base Combo Damage 250 Base First Hit 60 Base Second Hit 60 Base Third Hit 130 Base Bonus Hit 35/0/50 Blueprint Location Drops From Bombers Drop Chance 2+ B Sc; 0.4%Unlock Cost 60",
+    "infobox": {
+      "Internal Name": "Internal Name Sismic Blade",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.91 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 131",
+      "Combo Dmg": "Base Combo Damage 250",
+      "First Dmg": "Base First Hit 60",
+      "Second Dmg": "Base Second Hit 60",
+      "Third Dmg": "Base Third Hit 130",
+      "Extra Dmg": "Base Bonus Hit 35/0/50",
+      "Blueprint Location": "Location Drops From Bombers",
+      "Blueprint Chance": "Drop Chance 2+ B Sc; 0.4%",
+      "Blueprint Cost": "Unlock Cost 60"
+    }
+  },
+  {
+    "name": "War Spear",
+    "url": "https://deadcells.fandom.com/wiki/War_Spear",
+    "type": "",
+    "long_description": "War Spear Inflicts Acritical Hitwhen You Strike Several Targets At The Same Time.Greater Range But Less Speed.Internal Name Spear Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 0.88 Seconds Base Price 1500 Damage Base D Ps 256 (435)Base Combo Damage 225 (383)Base First Hit 70 (119)Base Second Hit 75 (128)Base Third Hit 80 (136)Blueprint Location Drops From Hammers Drop Chance 10%Unlock Cost 15",
+    "infobox": {
+      "Internal Name": "Internal Name Spear",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 0.88 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 256 (435)",
+      "Combo Dmg": "Base Combo Damage 225 (383)",
+      "First Dmg": "Base First Hit 70 (119)",
+      "Second Dmg": "Base Second Hit 75 (128)",
+      "Third Dmg": "Base Third Hit 80 (136)",
+      "Blueprint Location": "Location Drops From Hammers",
+      "Blueprint Chance": "Drop Chance 10%",
+      "Blueprint Cost": "Unlock Cost 15"
+    }
+  },
+  {
+    "name": "Impaler",
+    "url": "https://deadcells.fandom.com/wiki/Impaler_(Weapon)",
+    "type": "",
+    "long_description": "Impaler Inflicts Acritical Hitif The Victim Is Up Against A Wall.Internal Name Impale Spear Type Melee Weapon Scaling Combo Rate One 2-Hit Combo Every 0.6 Seconds Base Price 1500 Damage Base D Ps 175 (450)Base Combo Damage 105 (270)Base First Hit 45 (90)Base Second Hit 60 (180)Blueprint Location Drops From The Concierge(4Th Kill)Unlock Cost 40",
+    "infobox": {
+      "Internal Name": "Internal Name Impale Spear",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 2-Hit Combo Every 0.6 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 175 (450)",
+      "Combo Dmg": "Base Combo Damage 105 (270)",
+      "First Dmg": "Base First Hit 45 (90)",
+      "Second Dmg": "Base Second Hit 60 (180)",
+      "Blueprint Location": "Location Drops From The Concierge(4Th Kill)",
+      "Blueprint Cost": "Unlock Cost 40"
+    }
+  },
+  {
+    "name": "Symmetrical Lance",
+    "url": "https://deadcells.fandom.com/wiki/Symmetrical_Lance",
+    "type": "",
+    "long_description": "Symmetrical Lance Inflictscritical Hitsfor 6 Sec If You Quickly Kill 2 Enemies With This Weapon.Internal Name Kings Spear Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.82 Seconds Duration 6 Seconds (Damage Buff)Base Price 2000 Damage Base D Ps 192 (288)Base Combo Damage 350 (526)Base First Hit 80 (120)Base Second Hit 105 (158)Base Third Hit 165 (248)Blueprint Location Drops From The Hand Of The King(1St Kill)",
+    "infobox": {
+      "Internal Name": "Internal Name Kings Spear",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.82 Seconds",
+      "Duration": "Duration 6 Seconds (Damage Buff)",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 192 (288)",
+      "Combo Dmg": "Base Combo Damage 350 (526)",
+      "First Dmg": "Base First Hit 80 (120)",
+      "Second Dmg": "Base Second Hit 105 (158)",
+      "Third Dmg": "Base Third Hit 165 (248)",
+      "Blueprint Location": "Location Drops From The Hand Of The King(1St Kill)"
+    }
+  },
+  {
+    "name": "Rapier",
+    "url": "https://deadcells.fandom.com/wiki/Rapier",
+    "type": "",
+    "long_description": "Rapier Inflicts Acritical Hitimmediately After A Roll Or A Parry.It'S All In The Wrist...Internal Name Rapier Type Melee Weapon Combo Rate One 4-Hit Combo Every 0.85 Seconds Base Price 1500 Damage Base D Ps 156 (356)Base Combo Damage 133 (303)Base First Hit 37 (111)Base Second Hit 32 (64)Base Third Hit 32 (64)Base Fourth Hit 32 (64)Blueprint Location Drops From Scorpions Drop Chance 0.4%Unlock Cost 5",
+    "infobox": {
+      "Internal Name": "Internal Name Rapier",
+      "Type": "Type Melee Weapon",
+      "Combo": "Combo Rate One 4-Hit Combo Every 0.85 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 156 (356)",
+      "Combo Dmg": "Base Combo Damage 133 (303)",
+      "First Dmg": "Base First Hit 37 (111)",
+      "Second Dmg": "Base Second Hit 32 (64)",
+      "Third Dmg": "Base Third Hit 32 (64)",
+      "Fourth Dmg": "Base Fourth Hit 32 (64)",
+      "Blueprint Location": "Location Drops From Scorpions",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 5"
+    }
+  },
+  {
+    "name": "Meat Skewer",
+    "url": "https://deadcells.fandom.com/wiki/Meat_Skewer",
+    "type": "",
+    "long_description": "Meat Skewer The First Attack Pierces The Enemy, Placing You Behind It. Your Next Attack Inflictcritical Hits.Now You See Me, Now You Don'T.Internal Name Dash Sword Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 0.72 Seconds Base Price 1500 Damage Base D Ps 181 (281)Base Combo Damage 130 (201)Base First Hit 40 (40)Base Second Hit 45 (81)Base Third Hit 45(81)Blueprint Location Daily Run - Tenth Completion Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Dash Sword",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 0.72 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 181 (281)",
+      "Combo Dmg": "Base Combo Damage 130 (201)",
+      "First Dmg": "Base First Hit 40 (40)",
+      "Second Dmg": "Base Second Hit 45 (81)",
+      "Third Dmg": "Base Third Hit 45(81)",
+      "Blueprint Location": "Location Daily Run - Tenth Completion",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Nutcracker",
+    "url": "https://deadcells.fandom.com/wiki/Nutcracker",
+    "type": "",
+    "long_description": "Nutcracker Inflicts Acritical Hitif The Victim Is Stunned,Frozenorrooted.Internal Name Stun Mace Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.9 Seconds Base Price 1750 Damage Base D Ps 155 (386)Base Combo Damage 295 (733)Base First Hit 70 (126)Base Second Hit 85 (187)Base Third Hit 140 (420)",
+    "infobox": {
+      "Internal Name": "Internal Name Stun Mace",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.9 Seconds",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 155 (386)",
+      "Combo Dmg": "Base Combo Damage 295 (733)",
+      "First Dmg": "Base First Hit 70 (126)",
+      "Second Dmg": "Base Second Hit 85 (187)",
+      "Third Dmg": "Base Third Hit 140 (420)"
+    }
+  },
+  {
+    "name": "Spartan Sandals",
+    "url": "https://deadcells.fandom.com/wiki/Spartan_Sandals",
+    "type": "",
+    "long_description": "Spartan Sandals Knocks Back Enemies, Dealing Damage Where They Land. Deals 90 Extra Damage If The Enemy Hits A Wall. The Final Strike In The Combo Will Knock Back Any Enemy.This. Is. D Ea D C El Ls!Internal Name Bump Boots Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 2 Seconds Base Price 1600 Damage Base D Ps 32 Base Combo Damage 45 Base First Hit 14 Base Second Hit 14 Base Third Hit 17 Base Bonus Hit 90 (Wall Damage)Blueprint Location Drops From Runners Drop Chance 100%Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Bump Boots",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 2 Seconds",
+      "Money Cost": "Base Price 1600",
+      "Base Dps": "Base D Ps 32",
+      "Combo Dmg": "Base Combo Damage 45",
+      "First Dmg": "Base First Hit 14",
+      "Second Dmg": "Base Second Hit 14",
+      "Third Dmg": "Base Third Hit 17",
+      "Extra Dmg": "Base Bonus Hit 90 (Wall Damage)",
+      "Blueprint Location": "Location Drops From Runners",
+      "Blueprint Chance": "Drop Chance 100%",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Spiked Boots",
+    "url": "https://deadcells.fandom.com/wiki/Spiked_Boots",
+    "type": "",
+    "long_description": "Spiked Boots Inflicts Acritical Hitif The Kick Interrupts An Attack.Internal Name Spiked Boots Type Melee Weapon Scaling Combo Rate One 4-Hit Combo Every 1.43 Seconds Base Price 1600 Damage Base D Ps 105 (324)Base Combo Damage 150 (464)Base First Hit 35 (98)Base Second Hit 30 (78)Base Third Hit 35 (98)Base Fourth Hit 50 (190)Blueprint Location Drops From Thornies Drop Chance 0.4%Unlock Cost 35",
+    "infobox": {
+      "Internal Name": "Internal Name Spiked Boots",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 4-Hit Combo Every 1.43 Seconds",
+      "Money Cost": "Base Price 1600",
+      "Base Dps": "Base D Ps 105 (324)",
+      "Combo Dmg": "Base Combo Damage 150 (464)",
+      "First Dmg": "Base First Hit 35 (98)",
+      "Second Dmg": "Base Second Hit 30 (78)",
+      "Third Dmg": "Base Third Hit 35 (98)",
+      "Fourth Dmg": "Base Fourth Hit 50 (190)",
+      "Blueprint Location": "Location Drops From Thornies",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 35"
+    }
+  },
+  {
+    "name": "Hayabusa Boots",
+    "url": "https://deadcells.fandom.com/wiki/Hayabusa_Boots",
+    "type": "",
+    "long_description": "Hayabusa Boots The Last Hit Inflicts Area-Of-Effect Damage And Pushes Enemies Back.Internal Name Multi Kick Boots Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.21 Seconds Base Price 1600 Damage Base D Ps 161 Base Combo Damage 195 (395 With Ao E)Base First Hit 55 Base Second Hit 65 Base Third Hit 75 Base Bonus Hit 200 (Ao E Damage)Blueprint Location Drops From Dark Trackers Drop Chance 1+ B Sc; 1.7%Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Multi Kick Boots",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.21 Seconds",
+      "Money Cost": "Base Price 1600",
+      "Base Dps": "Base D Ps 161",
+      "Combo Dmg": "Base Combo Damage 195 (395 With Ao E)",
+      "First Dmg": "Base First Hit 55",
+      "Second Dmg": "Base Second Hit 65",
+      "Third Dmg": "Base Third Hit 75",
+      "Extra Dmg": "Base Bonus Hit 200 (Ao E Damage)",
+      "Blueprint Location": "Location Drops From Dark Trackers",
+      "Blueprint Chance": "Drop Chance 1+ B Sc; 1.7%",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Hayabusa Gauntlets",
+    "url": "https://deadcells.fandom.com/wiki/Hayabusa_Gauntlets",
+    "type": "",
+    "long_description": "Hayabusa Gauntlets Inflictscritical Hitsif The Victim Has Less Than 40% H P.Useless Useless Useless Useless Useless Usel...Internal Name Quick Fists Type Melee Weapon Scaling Combo Rate One 6-Hit Combo Every 2.13 Seconds Base Price 1500 Damage Base D Ps 124 (243)Base Combo Damage 190 (372)Base First Hit 20 (32)Base Second Hit 30 (60)Base Third Hit 30 (60)Base Fourth Hit 30 (60)Base Fifth Hit 40 (80)Base Sixth Hit 40 (80)Blueprint Location Drops From Lancers Drop Chance 0.4%Unlock Cost 30",
+    "infobox": {
+      "Internal Name": "Internal Name Quick Fists",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 6-Hit Combo Every 2.13 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 124 (243)",
+      "Combo Dmg": "Base Combo Damage 190 (372)",
+      "First Dmg": "Base First Hit 20 (32)",
+      "Second Dmg": "Base Second Hit 30 (60)",
+      "Third Dmg": "Base Third Hit 30 (60)",
+      "Fourth Dmg": "Base Fourth Hit 30 (60)",
+      "Fifth Dmg": "Base Fifth Hit 40 (80)",
+      "Sixth Dmg": "Base Sixth Hit 40 (80)",
+      "Blueprint Location": "Location Drops From Lancers",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 30"
+    }
+  },
+  {
+    "name": "Valmont'S Whip",
+    "url": "https://deadcells.fandom.com/wiki/Valmont%27s_Whip",
+    "type": "",
+    "long_description": "Valmont'S Whip Ignores Shields. Inflicts Acritical Hitif The Tip Of The Whip Strikes The Enemy.Popularized By The Well-Dressed Baron Belmont Du Cul.Internal Name Whip Type Melee Weapon Scaling Combo Rate One Hit Every 0.65 Seconds Base Price 1800 Damage Base D Ps 109 (305)Base Hit 60 (168)Blueprint Location Drops From Disgusting Worms Drop Chance 0.4%Unlock Cost 20",
+    "infobox": {
+      "Internal Name": "Internal Name Whip",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.65 Seconds",
+      "Money Cost": "Base Price 1800",
+      "Base Dps": "Base D Ps 109 (305)",
+      "Single Dmg": "Base Hit 60 (168)",
+      "Blueprint Location": "Location Drops From Disgusting Worms",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 20"
+    }
+  },
+  {
+    "name": "Wrenching Whip",
+    "url": "https://deadcells.fandom.com/wiki/Wrenching_Whip",
+    "type": "",
+    "long_description": "Wrenching Whip Ignores Shields, Pulls Victims Toward You And Inflicts Acritical Hiton The 3Rd Strike.Internal Name Hook Whip Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.2 Seconds Base Price 1800 Damage Base D Ps 129 (187)Base Combo Damage 225 Base First Hit 45 Base Second Hit 40 Base Third Hit 140 Blueprint Location Drops From Pirate Captains Drop Chance 0.4%Unlock Cost 40",
+    "infobox": {
+      "Internal Name": "Internal Name Hook Whip",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.2 Seconds",
+      "Money Cost": "Base Price 1800",
+      "Base Dps": "Base D Ps 129 (187)",
+      "Combo Dmg": "Base Combo Damage 225",
+      "First Dmg": "Base First Hit 45",
+      "Second Dmg": "Base Second Hit 40",
+      "Third Dmg": "Base Third Hit 140",
+      "Blueprint Location": "Location Drops From Pirate Captains",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 40"
+    }
+  },
+  {
+    "name": "Oiled Sword",
+    "url": "https://deadcells.fandom.com/wiki/Oiled_Sword",
+    "type": "",
+    "long_description": "Oiled Sword Douses The Enemy Withinflammable Oiland Inflictcritical Hitsduring 10 Sec After Hitting An Enemy On Fire.Internal Name Oil Sword Type Melee Weapon Scaling Combo Rate One 2-Hit Combo Every 0.71 Seconds Base Price 2000 Damage Base D Ps 127 (215)Base Combo Damage 90 (154)Base First Hit 45 (77)Base Second Hit 45 (77)Blueprint Location Drops From Bats Drop Chance 1.7%Unlock Cost 25",
+    "infobox": {
+      "Internal Name": "Internal Name Oil Sword",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 2-Hit Combo Every 0.71 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 127 (215)",
+      "Combo Dmg": "Base Combo Damage 90 (154)",
+      "First Dmg": "Base First Hit 45 (77)",
+      "Second Dmg": "Base Second Hit 45 (77)",
+      "Blueprint Location": "Location Drops From Bats",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 25"
+    }
+  },
+  {
+    "name": "Torch",
+    "url": "https://deadcells.fandom.com/wiki/Torch",
+    "type": "",
+    "long_description": "Torch Burnsyour Enemies (15 D Ps For 2.7 Sec).Talk About Mood Lighting!Internal Name Burner Type Melee Weapon Scaling Combo Rate One 4-Hit Combo Every 1.77 Seconds Duration 2/2/5/6 Seconds Base Price 1500 Damage Base D Ps 107 Base Combo Damage 190 Base First Hit 40 Base Second Hit 45 Base Third Hit 50 Base Fourth Hit 55 Blueprint Location Drops From Spawners Drop Chance 1.7%Unlock Cost 15",
+    "infobox": {
+      "Internal Name": "Internal Name Burner",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 4-Hit Combo Every 1.77 Seconds",
+      "Duration": "Duration 2/2/5/6 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 107",
+      "Combo Dmg": "Base Combo Damage 190",
+      "First Dmg": "Base First Hit 40",
+      "Second Dmg": "Base Second Hit 45",
+      "Third Dmg": "Base Third Hit 50",
+      "Fourth Dmg": "Base Fourth Hit 55",
+      "Blueprint Location": "Location Drops From Spawners",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 15"
+    }
+  },
+  {
+    "name": "Frantic Sword",
+    "url": "https://deadcells.fandom.com/wiki/Frantic_Sword",
+    "type": "",
+    "long_description": "Frantic Sword Inflicts Acritical Hitwhen You Have Less Than 50% Health Or More Than 50% Malaise.The Weapon Of Choice Of Fighters Who Like To Live Dangerously.Internal Name Low Health Type Melee Weapon Scaling Combo Rate One 5-Hit Combo Every 1.71 Seconds Base Price 1500 Damage Base D Ps 137 (277)Base Combo Damage 235 (474)Base First Hit 40 (64)Base Second Hit 40 (72)Base Third Hit 50 (100)Base Fourth Hit 35 (70)Base Fifth Hit 70 (168)Blueprint Location Drops From Kamikazes Drop Chance 0.4%Unlock Cost 25",
+    "infobox": {
+      "Internal Name": "Internal Name Low Health",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 5-Hit Combo Every 1.71 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 137 (277)",
+      "Combo Dmg": "Base Combo Damage 235 (474)",
+      "First Dmg": "Base First Hit 40 (64)",
+      "Second Dmg": "Base Second Hit 40 (72)",
+      "Third Dmg": "Base Third Hit 50 (100)",
+      "Fourth Dmg": "Base Fourth Hit 35 (70)",
+      "Fifth Dmg": "Base Fifth Hit 70 (168)",
+      "Blueprint Location": "Location Drops From Kamikazes",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 25"
+    }
+  },
+  {
+    "name": "Flawless",
+    "url": "https://deadcells.fandom.com/wiki/Flawless",
+    "type": "",
+    "long_description": "Flawless Inflictscritical Hitsif You Haven'T Taken Damage For At Least 15 Seconds.Internal Name Perfect Halberd Type Melee Weapon Scaling Combo Rate One 4-Hit Combo Per 2.3 Seconds Base Price 1750 Damage Base D Ps 115 (278)Base Combo Damage 265 (641)Base First Hit 50 (85)Base Second Hit 55 (94)Base Third Hit 60 (132)Base Fourth Hit 100 (330)Blueprint Location Drops From Slammers Drop Chance 0.4%Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Perfect Halberd",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 4-Hit Combo Per 2.3 Seconds",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 115 (278)",
+      "Combo Dmg": "Base Combo Damage 265 (641)",
+      "First Dmg": "Base First Hit 50 (85)",
+      "Second Dmg": "Base Second Hit 55 (94)",
+      "Third Dmg": "Base Third Hit 60 (132)",
+      "Fourth Dmg": "Base Fourth Hit 100 (330)",
+      "Blueprint Location": "Location Drops From Slammers",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Flint",
+    "url": "https://deadcells.fandom.com/wiki/Flint",
+    "type": "",
+    "long_description": "Flint Hold The Attack To Inflict Acritical Hitand Create A Flaming Trail.The Concierge Was Always Ready To Give An Extra Hand.Internal Name Behemoth Hammer Type Melee Weapon Scaling Combo Rate One Hit Every 0.5 Seconds Base Price 1800 Damage Base D Ps 224 (400)Base Hit 112 (320)Base Bonus Hit 70 (Flaming Trail)Blueprint Location Drops From The Concierge(1St Kill)Unlock Cost 20",
+    "infobox": {
+      "Internal Name": "Internal Name Behemoth Hammer",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.5 Seconds",
+      "Money Cost": "Base Price 1800",
+      "Base Dps": "Base D Ps 224 (400)",
+      "Single Dmg": "Base Hit 112 (320)",
+      "Extra Dmg": "Base Bonus Hit 70 (Flaming Trail)",
+      "Blueprint Location": "Location Drops From The Concierge(1St Kill)",
+      "Blueprint Cost": "Unlock Cost 20"
+    }
+  },
+  {
+    "name": "Tentacle",
+    "url": "https://deadcells.fandom.com/wiki/Tentacle",
+    "type": "",
+    "long_description": "Tentacle Ignore Shields And Project You Towards The Enemy And Inflicts Acritical Hitif You Attack Again While Bumped.Free Hugs!Internal Name Tentacle Whip Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.2 Seconds Base Price 1800 Damage Base D Ps 78 (265)Base First Hit 45 Base Second Hit 10 (24)Base Third Hit 65 (130)Blueprint Location Drops From Conjunctivius(1St Kill)Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Tentacle Whip",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.2 Seconds",
+      "Money Cost": "Base Price 1800",
+      "Base Dps": "Base D Ps 78 (265)",
+      "First Dmg": "Base First Hit 45",
+      "Second Dmg": "Base Second Hit 10 (24)",
+      "Third Dmg": "Base Third Hit 65 (130)",
+      "Blueprint Location": "Location Drops From Conjunctivius(1St Kill)",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Vorpan",
+    "url": "https://deadcells.fandom.com/wiki/Vorpan",
+    "type": "",
+    "long_description": "Vorpan Inflicts Acritical Hitif The Enemy Is Facing You.Grill. Fry. Burn. Reheat.Internal Name Pan Type Melee Weapon Scaling Combo Rate One 4-Hit Combo Every 1.4 Seconds.Base Price 1700 Damage Base D Ps 161 (289)Base Combo Damage 225 (405)Base First Hit 35 (56)Base Second Hit 45 (72)Base Third Hit 65 (117)Base Fourth Hit 80 (160)Blueprint Location Available In The Shopfree Of Charge - 4Th Run Onward Only",
+    "infobox": {
+      "Internal Name": "Internal Name Pan",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 4-Hit Combo Every 1.4 Seconds.",
+      "Money Cost": "Base Price 1700",
+      "Base Dps": "Base D Ps 161 (289)",
+      "Combo Dmg": "Base Combo Damage 225 (405)",
+      "First Dmg": "Base First Hit 35 (56)",
+      "Second Dmg": "Base Second Hit 45 (72)",
+      "Third Dmg": "Base Third Hit 65 (117)",
+      "Fourth Dmg": "Base Fourth Hit 80 (160)",
+      "Blueprint Location": "Location Available In The Shopfree Of Charge - 4Th Run Onward Only"
+    }
+  },
+  {
+    "name": "Flashing Fans",
+    "url": "https://deadcells.fandom.com/wiki/Flashing_Fans",
+    "type": "",
+    "long_description": "Flashing Fans Repelling A Projectile Causes You To Inflictcritical Hitsfor 8 Seconds.Use The Force Luke...Internal Name Parry Blade Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.38 Seconds Base Price 1700 Damage Base D Ps 145 (246)Base Hit 50 (85)Base Second Hit 90 (153)Base Third Hit 60 (102)Blueprint Location Drops From Yeeters Drop Chance 0.4%Unlock Cost 80",
+    "infobox": {
+      "Internal Name": "Internal Name Parry Blade",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.38 Seconds",
+      "Money Cost": "Base Price 1700",
+      "Base Dps": "Base D Ps 145 (246)",
+      "Single Dmg": "Base Hit 50 (85)",
+      "Second Dmg": "Base Second Hit 90 (153)",
+      "Third Dmg": "Base Third Hit 60 (102)",
+      "Blueprint Location": "Location Drops From Yeeters",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 80"
+    }
+  },
+  {
+    "name": "Scythe Claw",
+    "url": "https://deadcells.fandom.com/wiki/Scythe_Claw",
+    "type": "",
+    "long_description": "Primary Ability Secondary Ability Scythe Claw Inflicts Acritical Hitif You Previously Used The Other Claw.Recovered From The Stinking Carcass Of Mama Tick. Might Come In Handy.Internal Name Tick Scythe Left Type Melee Weapon Scaling Combo Rate One 2-Hit Combo Every 1.64 Seconds Base Price 1500 Damage Base D Ps 85 (311)Base Combo Damage 140 (510)Base First Hit 50 (150)Base Second Hit 90 (360)Left Scythe Claw Inflicts Acritical Hitif You Previously Used The Other Claw.Recovered From The Stinking Carcass Of Mama Tick. Might Come In Handy.Internal Name Tick Scythe Right Type Melee Weapon Scaling Combo Rate One 2-Hit Combo Every 1.97 Seconds Base Price 1500 Damage Base D Ps 165 (767)Base Combo Damage 325 (1550)Base First Hit 125 (750)Base Second Hit 200 (800)Blueprint Location Drops From Mama Tick(1St Kill)Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Tick Scythe Left",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 2-Hit Combo Every 1.64 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 85 (311)",
+      "Combo Dmg": "Base Combo Damage 140 (510)",
+      "First Dmg": "Base First Hit 50 (150)",
+      "Second Dmg": "Base Second Hit 90 (360)",
+      "Internal Name 2": "Internal Name Tick Scythe Right",
+      "Type 2": "Type Melee Weapon",
+      "Scaling 2": "Scaling",
+      "Combo 2": "Combo Rate One 2-Hit Combo Every 1.97 Seconds",
+      "Money Cost 2": "Base Price 1500",
+      "Base Dps 2": "Base D Ps 165 (767)",
+      "Combo Dmg 2": "Base Combo Damage 325 (1550)",
+      "First Dmg 2": "Base First Hit 125 (750)",
+      "Second Dmg 2": "Base Second Hit 200 (800)",
+      "Blueprint Location": "Location Drops From Mama Tick(1St Kill)",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Rhythm N' Bouzouki",
+    "url": "https://deadcells.fandom.com/wiki/Rhythm_n%27_Bouzouki",
+    "type": "",
+    "long_description": "Rhythm N' Bouzouki Inflictscritical Hitsif You Strike At The Right Time. The Last Hit Repeats Indefinitely If You Keep The Tempo Going.Hey, Get Rhythm When You Get The Blues! Come On, Get Rhythm When You Get The Blues...Internal Name Rhythmic Blade Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 2 Seconds Base Price 1700 Damage Base D Ps 133 (330)Base Combo Damage 265 (660)Base First Hit 55 (110)Base Second Hit 80 (160)Base Third Hit 130 (390)Blueprint Location Drops From Giant Ticks Drop Chance 0.4%Unlock Cost 60",
+    "infobox": {
+      "Internal Name": "Internal Name Rhythmic Blade",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 2 Seconds",
+      "Money Cost": "Base Price 1700",
+      "Base Dps": "Base D Ps 133 (330)",
+      "Combo Dmg": "Base Combo Damage 265 (660)",
+      "First Dmg": "Base First Hit 55 (110)",
+      "Second Dmg": "Base Second Hit 80 (160)",
+      "Third Dmg": "Base Third Hit 130 (390)",
+      "Blueprint Location": "Location Drops From Giant Ticks",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 60"
+    }
+  },
+  {
+    "name": "Crowbar",
+    "url": "https://deadcells.fandom.com/wiki/Crowbar",
+    "type": "",
+    "long_description": "Crowbar Inflictcritical Hitswhen Hitting Bestial Enemies Or For 8 Seconds After Destroying A Door.Surprisingly Effective When Eradicating Parasites.Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.15 Seconds Base Price 1500 Damage Base D Ps 174 (284)Base Combo Damage 200 (327)Base First Hit 40 (60)Base Second Hit 70 (105)Base Third Hit 90 (162)Blueprint Location Lore Room In The Prisoners' Quarters Unlock Cost 5",
+    "infobox": {
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.15 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 174 (284)",
+      "Combo Dmg": "Base Combo Damage 200 (327)",
+      "First Dmg": "Base First Hit 40 (60)",
+      "Second Dmg": "Base Second Hit 70 (105)",
+      "Third Dmg": "Base Third Hit 90 (162)",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters",
+      "Blueprint Cost": "Unlock Cost 5"
+    }
+  },
+  {
+    "name": "Snake Fangs",
+    "url": "https://deadcells.fandom.com/wiki/Snake_Fangs",
+    "type": "",
+    "long_description": "Snake Fangs Teleports You To The Nearest Target.Poisonsvictims (4 D Ps For 15 Sec). Inflictscritical Hitsif The Target Has More Than 5 Poison Marks.Internal Name Snake Fang Type Melee Weapon Scaling Combo Rate One 2-Hit Combo Every 0.64 Seconds Duration 15 Seconds (Poisoneffect)Base Price 1500 Damage Base D Ps 94 (150)Base Combo Damage 60 (96)Base First Hit 27 (43)Base Second Hit 33 (53)Base Do T D Ps 4 (Poisoneffect)Blueprint Location Drops From Cold Blooded Guardians Drop Chance 1.7%Unlock Cost 80",
+    "infobox": {
+      "Internal Name": "Internal Name Snake Fang",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 2-Hit Combo Every 0.64 Seconds",
+      "Duration": "Duration 15 Seconds (Poisoneffect)",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 94 (150)",
+      "Combo Dmg": "Base Combo Damage 60 (96)",
+      "First Dmg": "Base First Hit 27 (43)",
+      "Second Dmg": "Base Second Hit 33 (53)",
+      "Dot Dps": "Base Do T D Ps 4 (Poisoneffect)",
+      "Blueprint Location": "Location Drops From Cold Blooded Guardians",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 80"
+    }
+  },
+  {
+    "name": "Iron Staff",
+    "url": "https://deadcells.fandom.com/wiki/Iron_Staff",
+    "type": "",
+    "long_description": "Iron Staff The First Hit Allows You Toparrymelee Hits. The Combo Inflictscritical Hitsafter A Successful Parry.Internal Name Giant Staff Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.78 Seconds Base Price 1750 Damage Base D Ps 135 (404)Base Combo Damage 240 (720)Base First Hit 60 (216)Base Second Hit 80 (224)Base Third Hit 100 (280)Blueprint Location Drops From Stone Wardens Drop Chance 100%Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Giant Staff",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.78 Seconds",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 135 (404)",
+      "Combo Dmg": "Base Combo Damage 240 (720)",
+      "First Dmg": "Base First Hit 60 (216)",
+      "Second Dmg": "Base Second Hit 80 (224)",
+      "Third Dmg": "Base Third Hit 100 (280)",
+      "Blueprint Location": "Location Drops From Stone Wardens",
+      "Blueprint Chance": "Drop Chance 100%",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Ferryman'S Lantern",
+    "url": "https://deadcells.fandom.com/wiki/Ferryman%27s_Lantern",
+    "type": "",
+    "long_description": "Primary Ability Secondary Ability Ferryman'S Lantern Kill An Enemy To Gather Its Soul. The Last Combo Hit Snatches A Soul From Bosses.Internal Name Lantern Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.65 Seconds Base Price 2050 Damage Base D Ps 164 Base Combo Damage 270 Base First Hit 80 Base Second Hit 90 Base Third Hit 100 Soul Shot Charge To Shoot Souls As Projectiles. If More Than 3 Souls Are Shot At The Same Time, They Inflictcritical Hits.Internal Name Lantern Off Hand Type Ranged Weapon Scaling Combo Rate One Hit Every Second Base Price 2050 Damage Base D Ps 107 (429)Base Hit 75 (300)Blueprint Location Drops From Apostates Drop Chance 0.4%Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Lantern",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.65 Seconds",
+      "Money Cost": "Base Price 2050",
+      "Base Dps": "Base D Ps 164",
+      "Combo Dmg": "Base Combo Damage 270",
+      "First Dmg": "Base First Hit 80",
+      "Second Dmg": "Base Second Hit 90",
+      "Third Dmg": "Base Third Hit 100",
+      "Internal Name 2": "Internal Name Lantern Off Hand",
+      "Type 2": "Type Ranged Weapon",
+      "Scaling 2": "Scaling",
+      "Combo 2": "Combo Rate One Hit Every Second",
+      "Money Cost 2": "Base Price 2050",
+      "Base Dps 2": "Base D Ps 107 (429)",
+      "Single Dmg 2": "Base Hit 75 (300)",
+      "Blueprint Location": "Location Drops From Apostates",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Katana",
+    "url": "https://deadcells.fandom.com/wiki/Hattori%27s_Katana",
+    "type": "",
+    "long_description": "Hattori'S Katana Hold To Dash Through Enemies In Front Of You Inflictingcritical Hits.Internal Name Katana Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 0.9 Seconds.One Charged Attack Every 1.4 Seconds.Base Price 1500 Damage Base D Ps 187 (179)Base Combo Damage 165 (179)Base First Hit 45 Base Second Hit 55 Base Third Hit 65 Base Bonus Hit 179(Charged Attack)Blueprint Location Drops From Weirded Warriors Drop Chance 1.7%Unlock Cost 60",
+    "infobox": {
+      "Internal Name": "Internal Name Katana",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 0.9 Seconds.One Charged Attack Every 1.4 Seconds.",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 187 (179)",
+      "Combo Dmg": "Base Combo Damage 165 (179)",
+      "First Dmg": "Base First Hit 45",
+      "Second Dmg": "Base Second Hit 55",
+      "Third Dmg": "Base Third Hit 65",
+      "Extra Dmg": "Base Bonus Hit 179(Charged Attack)",
+      "Blueprint Location": "Location Drops From Weirded Warriors",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 60"
+    }
+  },
+  {
+    "name": "Hattori'S Katana",
+    "url": "https://deadcells.fandom.com/wiki/Hattori%27s_Katana",
+    "type": "",
+    "long_description": "Hattori'S Katana Hold To Dash Through Enemies In Front Of You Inflictingcritical Hits.Internal Name Katana Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 0.9 Seconds.One Charged Attack Every 1.4 Seconds.Base Price 1500 Damage Base D Ps 187 (179)Base Combo Damage 165 (179)Base First Hit 45 Base Second Hit 55 Base Third Hit 65 Base Bonus Hit 179(Charged Attack)Blueprint Location Drops From Weirded Warriors Drop Chance 1.7%Unlock Cost 60",
+    "infobox": {
+      "Internal Name": "Internal Name Katana",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 0.9 Seconds.One Charged Attack Every 1.4 Seconds.",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 187 (179)",
+      "Combo Dmg": "Base Combo Damage 165 (179)",
+      "First Dmg": "Base First Hit 45",
+      "Second Dmg": "Base Second Hit 55",
+      "Third Dmg": "Base Third Hit 65",
+      "Extra Dmg": "Base Bonus Hit 179(Charged Attack)",
+      "Blueprint Location": "Location Drops From Weirded Warriors",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 60"
+    }
+  },
+  {
+    "name": "Tombstone",
+    "url": "https://deadcells.fandom.com/wiki/Tombstone",
+    "type": "",
+    "long_description": "Tombstone Kill An Enemy With The Last Hit To Bury It Under A Tombstone And Doom Nearby Enemies.Internal Name Tombstone Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.8 Seconds Base Trap Health 200 (Placed Tombstone Health)Base Price 1800 Damage Base D Ps 250 Base Combo Damage 440 Base First Hit 70 Base Second Hit 80 Base Third Hit 300 Base Bonus Hit 150 (Doom Effect)Blueprint Location Drops From Swarm Zombies Drop Chance 1.7%Unlock Cost 80",
+    "infobox": {
+      "Internal Name": "Internal Name Tombstone",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.8 Seconds",
+      "Trap Hp": "Base Trap Health 200 (Placed Tombstone Health)",
+      "Money Cost": "Base Price 1800",
+      "Base Dps": "Base D Ps 250",
+      "Combo Dmg": "Base Combo Damage 440",
+      "First Dmg": "Base First Hit 70",
+      "Second Dmg": "Base Second Hit 80",
+      "Third Dmg": "Base Third Hit 300",
+      "Extra Dmg": "Base Bonus Hit 150 (Doom Effect)",
+      "Blueprint Location": "Location Drops From Swarm Zombies",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 80"
+    }
+  },
+  {
+    "name": "Oven Axe",
+    "url": "https://deadcells.fandom.com/wiki/Oven_Axe",
+    "type": "",
+    "long_description": "Oven Axe Repeat The Last Hit Combo To Inflictcritical Damage.Internal Name Heavy Axe Type Melee Weapon Scaling Combo Rate One 4-Hit Combo Every 4.32 Seconds Base Price 1500 Damage Base D Ps 215 (273)Base Combo Damage 930 (1180)Base First Hit 200 Base Second Hit 230 Base Third Hit 250 Base Fourth Hit 250 (500)Blueprint Location Drops From Oven Knights Drop Chance 2+ B Sc; 1.7%Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Heavy Axe",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 4-Hit Combo Every 4.32 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 215 (273)",
+      "Combo Dmg": "Base Combo Damage 930 (1180)",
+      "First Dmg": "Base First Hit 200",
+      "Second Dmg": "Base Second Hit 230",
+      "Third Dmg": "Base Third Hit 250",
+      "Fourth Dmg": "Base Fourth Hit 250 (500)",
+      "Blueprint Location": "Location Drops From Oven Knights",
+      "Blueprint Chance": "Drop Chance 2+ B Sc; 1.7%",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Toothpick",
+    "url": "https://deadcells.fandom.com/wiki/Toothpick",
+    "type": "",
+    "long_description": "Normal Broken Toothpick Strike Harder By Charging Your Attack, But The Toothpick Will Be Broken For 6 Seconds.Internal Name Club Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 3.08 Seconds Base Price 1800 Damage Base D Ps 195 (778)Base Combo Damage 600 (2400)Base First Hit 150 (600)Base Second Hit 200 (800)Base Third Hit 250 (1000)Broken Toothpick Reverts To Initial Form After 6 Seconds.Internal Name Club Broken Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.47 Seconds Duration 6 Seconds Base Price 1800 Damage Base D Ps 82 Base Combo Damage 120 Base First Hit 30 Base Second Hit 40 Base Third Hit 50 Blueprint Location Drops From Ground Shakers Drop Chance 10%Unlock Cost 60",
+    "infobox": {
+      "Internal Name": "Internal Name Club",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 3.08 Seconds",
+      "Money Cost": "Base Price 1800",
+      "Base Dps": "Base D Ps 195 (778)",
+      "Combo Dmg": "Base Combo Damage 600 (2400)",
+      "First Dmg": "Base First Hit 150 (600)",
+      "Second Dmg": "Base Second Hit 200 (800)",
+      "Third Dmg": "Base Third Hit 250 (1000)",
+      "Internal Name 2": "Internal Name Club Broken",
+      "Type 2": "Type Melee Weapon",
+      "Scaling 2": "Scaling",
+      "Combo 2": "Combo Rate One 3-Hit Combo Every 1.47 Seconds",
+      "Duration 2": "Duration 6 Seconds",
+      "Money Cost 2": "Base Price 1800",
+      "Base Dps 2": "Base D Ps 82",
+      "Combo Dmg 2": "Base Combo Damage 120",
+      "First Dmg 2": "Base First Hit 30",
+      "Second Dmg 2": "Base Second Hit 40",
+      "Third Dmg 2": "Base Third Hit 50",
+      "Blueprint Location": "Location Drops From Ground Shakers",
+      "Blueprint Chance": "Drop Chance 10%",
+      "Blueprint Cost": "Unlock Cost 60"
+    }
+  },
+  {
+    "name": "Machete And Pistol",
+    "url": "https://deadcells.fandom.com/wiki/Machete_and_Pistol",
+    "type": "",
+    "long_description": "Machete And Pistol The Third Attack Uses The Pistol To Bump And Inflictcritical Damageto Nearby Enemies.Hack, Slash And Shoot!Internal Name Machete Pistol Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.41 Seconds Base Price 1500 Damage Base D Ps 117 (163)Base Combo Damage 230 Base First Hit 45 Base Second Hit 55 Base Third Hit 130 Blueprint Location Lore Room In The Prisoners' Quarters",
+    "infobox": {
+      "Internal Name": "Internal Name Machete Pistol",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.41 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 117 (163)",
+      "Combo Dmg": "Base Combo Damage 230",
+      "First Dmg": "Base First Hit 45",
+      "Second Dmg": "Base Second Hit 55",
+      "Third Dmg": "Base Third Hit 130",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters"
+    }
+  },
+  {
+    "name": "Hard Light Sword",
+    "url": "https://deadcells.fandom.com/wiki/Hard_Light_Sword",
+    "type": "",
+    "long_description": "Primary Ability Secondary Ability Hard Light Sword Dealscritical Damagedepending On The Number Of Gun Marks On The Target. Recharges Hard Light Gun'S Ammo.An Elegant Weapon For A More Civilized Age.Internal Name Hard Light Sword Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.28 Seconds Base Price 1500 Damage Base D Ps 117 (280)Base Combo Damage 150 (165-360)Base First Hit 40 (44-88)Base Second Hit 50 (55-100)Base Third Hit 60 (66-138)Hard Light Gun Marks Its Targets To Make Hard Light Sword Dealcritical Damageto Them. Ammo Doesn'T Recharge Passively.Not That Clumsy Or Random, Though.Internal Name Hard Light Gun Type Ranged Weapon Scaling Combo Rate One Hit Every 0.47 Seconds Base Price 1500 Damage Base D Ps 78 (469)Base Hit 25 Blueprint Location Lore Room In The Prisoners' Quarters",
+    "infobox": {
+      "Internal Name": "Internal Name Hard Light Sword",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.28 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 117 (280)",
+      "Combo Dmg": "Base Combo Damage 150 (165-360)",
+      "First Dmg": "Base First Hit 40 (44-88)",
+      "Second Dmg": "Base Second Hit 50 (55-100)",
+      "Third Dmg": "Base Third Hit 60 (66-138)",
+      "Internal Name 2": "Internal Name Hard Light Gun",
+      "Type 2": "Type Ranged Weapon",
+      "Scaling 2": "Scaling",
+      "Combo 2": "Combo Rate One Hit Every 0.47 Seconds",
+      "Money Cost 2": "Base Price 1500",
+      "Base Dps 2": "Base D Ps 78 (469)",
+      "Single Dmg 2": "Base Hit 25",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters"
+    }
+  },
+  {
+    "name": "Pure Nail",
+    "url": "https://deadcells.fandom.com/wiki/Pure_Nail",
+    "type": "",
+    "long_description": "Pure Nail Can Attack While Moving And Upward. Attacking Downward While Airborne Cause You To Bounce On Your Enemies, Dealingcritical Damage.My Life'S Work Achieved... What More Is Left...?Internal Name Pure Nail Type Melee Weapon Scaling Combo Rate One 2-Hit Combo Every 0.8 Seconds Base Price 1500 Damage Base D Ps 155 (218)Base Combo Damage 135 (170)Base First Hit 45 Base Second Hit 55 Base Bonus Hit 60(Upward Hit)80(Downward Hit)Blueprint Location Lore Room In The Prisoners' Quarters",
+    "infobox": {
+      "Internal Name": "Internal Name Pure Nail",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 2-Hit Combo Every 0.8 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 155 (218)",
+      "Combo Dmg": "Base Combo Damage 135 (170)",
+      "First Dmg": "Base First Hit 45",
+      "Second Dmg": "Base Second Hit 55",
+      "Extra Dmg": "Base Bonus Hit 60(Upward Hit)80(Downward Hit)",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters"
+    }
+  },
+  {
+    "name": "Bone",
+    "url": "https://deadcells.fandom.com/wiki/Bone",
+    "type": "",
+    "long_description": "Bone Hitting With The Second Attack Enables A Whirlwind Attack That Dealscritical Damage.You Don'T Want To Have One To Pick With That Young Skeleton.Internal Name Skul Bone Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 2.20 Seconds Base Price 1500 Damage Base D Ps 137.5 (156)Base Combo Damage 362 Base First Hit 50 Base Second Hit 60 Base Third Hit 252(36Per Tick)Blueprint Location Lore Room In The Prisoners' Quarters",
+    "infobox": {
+      "Internal Name": "Internal Name Skul Bone",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 2.20 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 137.5 (156)",
+      "Combo Dmg": "Base Combo Damage 362",
+      "First Dmg": "Base First Hit 50",
+      "Second Dmg": "Base Second Hit 60",
+      "Third Dmg": "Base Third Hit 252(36Per Tick)",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters"
+    }
+  },
+  {
+    "name": "Abyssal Trident",
+    "url": "https://deadcells.fandom.com/wiki/Abyssal_Trident",
+    "type": "",
+    "long_description": "Abyssal Trident The Second Attack Is A Charge That Inflictscritical Damageafter A Few Moments. Interrupt It With The Last Attack To Dealcritical Damage.Forking Good Weapon!Internal Name Trident Type Melee Weapon Scaling Base Price 1500 Damage Base D Ps 106 (235)Base Combo Damage 485 Base First Hit 65 Base Second Hit 30 (6 Per Tick) +270(18Per Tick)Base Third Hit 120 Blueprint Location Lore Room In Infested Shipwreck; Requires Forked Key",
+    "infobox": {
+      "Internal Name": "Internal Name Trident",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 106 (235)",
+      "Combo Dmg": "Base Combo Damage 485",
+      "First Dmg": "Base First Hit 65",
+      "Second Dmg": "Base Second Hit 30 (6 Per Tick) +270(18Per Tick)",
+      "Third Dmg": "Base Third Hit 120",
+      "Blueprint Location": "Location Lore Room In Infested Shipwreck; Requires Forked Key"
+    }
+  },
+  {
+    "name": "Hand Hook",
+    "url": "https://deadcells.fandom.com/wiki/Hand_Hook",
+    "type": "",
+    "long_description": "Hand Hook The Last Attack Throws The Target Behind You, Bumping Other Enemies It Hits. Enemies Thrown On Walls Are Dealtcritical Damage.You'Ll Get Hooked On Throwing Enemies On The Walls!Internal Name Hand Hook Type Melee Weapon Scaling Combo Rate One 2-Hit Combo Every 0.66 Seconds Base Price 1500 Damage Base D Ps 106 (318)Base Combo Damage 70 (210)Base First Hit 40 Base Second Hit 30 Base Bonus Hit 140(Wall Damage)Blueprint Location Drops From Armored Shrimps Drop Chance 1.7%Unlock Cost 60",
+    "infobox": {
+      "Internal Name": "Internal Name Hand Hook",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 2-Hit Combo Every 0.66 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 106 (318)",
+      "Combo Dmg": "Base Combo Damage 70 (210)",
+      "First Dmg": "Base First Hit 40",
+      "Second Dmg": "Base Second Hit 30",
+      "Extra Dmg": "Base Bonus Hit 140(Wall Damage)",
+      "Blueprint Location": "Location Drops From Armored Shrimps",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 60"
+    }
+  },
+  {
+    "name": "Maw Of The Deep",
+    "url": "https://deadcells.fandom.com/wiki/Maw_of_the_Deep",
+    "type": "",
+    "long_description": "Maw Of The Deep The Third Attack Throws The Shark,Rootingthe Enemy And Causing It Tobleed. Inflictscritical Hitsonrootedtargets.The First Weapon That Moonlights As A Terrible Sea Predator.Internal Name Shark Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 2.56 Seconds Base Price 2000 Damage Base D Ps 158 (270)Base Combo Damage 405 (690)Base First Hit 135 (270)Base Second Hit 150 (300)Base Third Hit 120 Blueprint Location Drops From Mutineers Drop Chance 1.7%Unlock Cost 80",
+    "infobox": {
+      "Internal Name": "Internal Name Shark",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 2.56 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 158 (270)",
+      "Combo Dmg": "Base Combo Damage 405 (690)",
+      "First Dmg": "Base First Hit 135 (270)",
+      "Second Dmg": "Base Second Hit 150 (300)",
+      "Third Dmg": "Base Third Hit 120",
+      "Blueprint Location": "Location Drops From Mutineers",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 80"
+    }
+  },
+  {
+    "name": "Bladed Tonfas",
+    "url": "https://deadcells.fandom.com/wiki/Bladed_Tonfas",
+    "type": "",
+    "long_description": "Bladed Tonfas The First Attack Makes You Jump Forward. Hitting With This Attack Causes Your Next Combo With This Weapon To Dealcritical Damage.Stylish Yet Impractical. How Was She Able To Use It With Such Deadly Accuracy?!Internal Name Elbow Blades Type Melee Weapon Scaling Combo Rate One 4-Hit Combo Every 1.62 Seconds Base Price 2000 Damage Base D Ps 105 (231)Base Combo Damage 130 (374)Base First Hit 88 Base Second Hit 35 (77)Base Third Hit 35 (77)Base Fourth Hit 60 (132)Blueprint Location Drops From Kleiowhen Killed Last Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Elbow Blades",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 4-Hit Combo Every 1.62 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 105 (231)",
+      "Combo Dmg": "Base Combo Damage 130 (374)",
+      "First Dmg": "Base First Hit 88",
+      "Second Dmg": "Base Second Hit 35 (77)",
+      "Third Dmg": "Base Third Hit 35 (77)",
+      "Fourth Dmg": "Base Fourth Hit 60 (132)",
+      "Blueprint Location": "Location Drops From Kleiowhen Killed Last",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Wrecking Ball",
+    "url": "https://deadcells.fandom.com/wiki/Wrecking_Ball",
+    "type": "",
+    "long_description": "Wrecking Ball The Third Attack Throws The Ball And The Fourth Recalls It.I Never Hit So Hard In Love.Internal Name Wrecking Ball Type Melee Weapon Scaling Combo Rate One 4-Hit Combo Every 3.57 Seconds Base Price 2000 Damage Base D Ps 210 (280)Base Combo Damage 750 (1000)Base First Hit 200 Base Second Hit 180 Base Third Hit 120 Base Fourth Hit 250 (500)Blueprint Location Drops From Calliopewhen Killed Last Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Wrecking Ball",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 4-Hit Combo Every 3.57 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 210 (280)",
+      "Combo Dmg": "Base Combo Damage 750 (1000)",
+      "First Dmg": "Base First Hit 200",
+      "Second Dmg": "Base Second Hit 180",
+      "Third Dmg": "Base Third Hit 120",
+      "Fourth Dmg": "Base Fourth Hit 250 (500)",
+      "Blueprint Location": "Location Drops From Calliopewhen Killed Last",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Queen'S Rapier",
+    "url": "https://deadcells.fandom.com/wiki/Queen%27s_Rapier",
+    "type": "",
+    "long_description": "Queen'S Rapier Attacks That Hit A Target Also Slice Through Reality, Hitting Anything On Their Path Again.Graceful And Deadly, Just Like Her.Internal Name Queen Rapier Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.50 Seconds.The Slice 3-Hit Combo Every 1.80Seconds Base Price 2000 Damage Base D Ps 57 (148)Base Combo Damage 85 (266)Base First Hit 35 (77)Base Second Hit 25 (77)Base Third Hit 25 (112)Blueprint Location Drops From The Queen(1St Kill)Unlock Cost 150",
+    "infobox": {
+      "Internal Name": "Internal Name Queen Rapier",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 1.50 Seconds.The Slice 3-Hit Combo Every 1.80Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 57 (148)",
+      "Combo Dmg": "Base Combo Damage 85 (266)",
+      "First Dmg": "Base First Hit 35 (77)",
+      "Second Dmg": "Base Second Hit 25 (77)",
+      "Third Dmg": "Base Third Hit 25 (112)",
+      "Blueprint Location": "Location Drops From The Queen(1St Kill)",
+      "Blueprint Cost": "Unlock Cost 150"
+    }
+  },
+  {
+    "name": "Dagger Of Profit",
+    "url": "https://deadcells.fandom.com/wiki/Dagger_of_Profit",
+    "type": "",
+    "long_description": "Dagger Of Profit Inflictscritical Hitsfor 3 Seconds After Picking Up Gold.Stonks.Internal Name Cupidity Dagger Type Melee Weapon Scaling Combo Rate One 4-Hit Combo Every 1.52 Seconds Duration 3 Seconds Base Price 2000 Damage Base D Ps 105 (211)Base Combo Damage 160 (320)Base First Hit 30 (60)Base Second Hit 35 (70)Base Third Hit 50 (100)Base Fourth Hit 45 (90)Blueprint Location Drops From Agitated Pickpockets Drop Chance 1.7%Unlock Cost 80",
+    "infobox": {
+      "Internal Name": "Internal Name Cupidity Dagger",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 4-Hit Combo Every 1.52 Seconds",
+      "Duration": "Duration 3 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 105 (211)",
+      "Combo Dmg": "Base Combo Damage 160 (320)",
+      "First Dmg": "Base First Hit 30 (60)",
+      "Second Dmg": "Base Second Hit 35 (70)",
+      "Third Dmg": "Base Third Hit 50 (100)",
+      "Fourth Dmg": "Base Fourth Hit 45 (90)",
+      "Blueprint Location": "Location Drops From Agitated Pickpockets",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 80"
+    }
+  },
+  {
+    "name": "Gold Digger",
+    "url": "https://deadcells.fandom.com/wiki/Gold_Digger",
+    "type": "",
+    "long_description": "Gold Digger Normal Improved Hits Cause Their Target To Drop [10 In Base Form, 15 In Improved Form] Gold. Inflictscritical Damageif You Have More Than 12000 Gold.Au-Some Weapon.Internal Name Gold Digger Gold Digger Evolved Type Melee Weapon Scaling Combo Rate A 3-Hit Combo Every 2.2 Seconds Base Price 2000 Damage Base D Ps 118 (206)Base Combo Damage 260 (486)Base First Hit 80 (160)Base Second Hit 90 (180)Base Third Hit 90 (146)Blueprint Location Drops From Gold Gorgers Drop Chance 1.7%Unlock Cost 80",
+    "infobox": {
+      "Overrideimage": "Normal Improved",
+      "Internal Name": "Internal Name Gold Digger Gold Digger Evolved",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate A 3-Hit Combo Every 2.2 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 118 (206)",
+      "Combo Dmg": "Base Combo Damage 260 (486)",
+      "First Dmg": "Base First Hit 80 (160)",
+      "Second Dmg": "Base Second Hit 90 (180)",
+      "Third Dmg": "Base Third Hit 90 (146)",
+      "Blueprint Location": "Location Drops From Gold Gorgers",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 80"
+    }
+  },
+  {
+    "name": "Panchaku",
+    "url": "https://deadcells.fandom.com/wiki/Panchaku",
+    "type": "",
+    "long_description": "Panchaku Inflicts Acritical Hitif The Enemy Is Facing You.Feast Of Fury Internal Name Nunchuck Pan Type Melee Weapon Scaling Combo Rate One 10-Hit Combo Every 3.20 Seconds Base Price 2000 Damage Base D Ps 121 (185)Base Combo Damage 386 (591)Base First Hit 30 (42)Base Second Hit 30 (42)Base Third Hit 55 (77)Base Fourth Hit 30 (42)Base Fifth Hit 45 (63)Base Sixth Hit 28 (39)Base Seventh Hit 28 (39)Base Eighth Hit 18 (25)Base Ninth Hit 37 (52)Base Tenth Hit 85 (170)Blueprint Location Lore Room In The Prisoners' Quarters",
+    "infobox": {
+      "Internal Name": "Internal Name Nunchuck Pan",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 10-Hit Combo Every 3.20 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 121 (185)",
+      "Combo Dmg": "Base Combo Damage 386 (591)",
+      "First Dmg": "Base First Hit 30 (42)",
+      "Second Dmg": "Base Second Hit 30 (42)",
+      "Third Dmg": "Base Third Hit 55 (77)",
+      "Fourth Dmg": "Base Fourth Hit 30 (42)",
+      "Fifth Dmg": "Base Fifth Hit 45 (63)",
+      "Sixth Dmg": "Base Sixth Hit 28 (39)",
+      "Seventh Dmg": "Base Seventh Hit 28 (39)",
+      "Eighth Dmg": "Base Eighth Hit 18 (25)",
+      "Ninth Dmg": "Base Ninth Hit 37 (52)",
+      "Tenth Dmg": "Base Tenth Hit 85 (170)",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters"
+    }
+  },
+  {
+    "name": "King Scepter",
+    "url": "https://deadcells.fandom.com/wiki/King_Scepter",
+    "type": "",
+    "long_description": "King Scepter You Charge Forward. Upon Hitting A Target, You Bounce Into The Air Spinning. Bouncing On An Enemy Dealscritical Damageand Lets You Charge Again.Reign Of Decadence Internal Name King Scepter Typemelee Weapon Scaling Combo Rate One Hit Every 0.6S Base Price 2000 Damage Base D Ps 75 (150)Base Combo Damage 135 Base First Hit 45 (90)Blueprint Location Lore Room In The Prisoners' Quarters",
+    "infobox": {
+      "Internal Name": "Internal Name King Scepter",
+      "Type": "Typemelee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.6S",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 75 (150)",
+      "Combo Dmg": "Base Combo Damage 135",
+      "First Dmg": "Base First Hit 45 (90)",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters"
+    }
+  },
+  {
+    "name": "Baseball Bat",
+    "url": "https://deadcells.fandom.com/wiki/Baseball_Bat",
+    "type": "",
+    "long_description": "Baseball Bat Attacking A Stunned Orrootedenemy Lets You Strike Frantically, Dealingcritical Damage Go Tt A G Et A G Ri P!Internal Name Baseball Bat Type Melee Weapon Scaling Combo Rate 4 Hits Every 1.31 Seconds.1Criticalhit Every 0.21 Seconds.Base Price 2000 Damage Base D Ps 156 (476)Base Combo Damage 205 Base First Hit 30 Base Second Hit 40 Base Third Hit 60 Base Fourth Hit 75 Base Fifth Hit 100 Blueprint Location Lore Room In The Prisoners' Quarters",
+    "infobox": {
+      "Internal Name": "Internal Name Baseball Bat",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate 4 Hits Every 1.31 Seconds.1Criticalhit Every 0.21 Seconds.",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 156 (476)",
+      "Combo Dmg": "Base Combo Damage 205",
+      "First Dmg": "Base First Hit 30",
+      "Second Dmg": "Base Second Hit 40",
+      "Third Dmg": "Base Third Hit 60",
+      "Fourth Dmg": "Base Fourth Hit 75",
+      "Fifth Dmg": "Base Fifth Hit 100",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters"
+    }
+  },
+  {
+    "name": "Starfury",
+    "url": "https://deadcells.fandom.com/wiki/Starfury",
+    "type": "",
+    "long_description": "Starfury Successful Attacks Also Create Two Falling Stars That Strikes Another Target If Possible, Dealingcritical Damage Along With Other Famous Swords, This Can Be Forged Into The Zenith.Internal Name Starfury Type Melee Weapon Scaling Combo Rate One Hit Every 0.35 Seconds Base Price 2000 Damage Base D Ps 57 (114)Base First Hit 20 (40)Blueprint Location Lore Room In The Prisoners' Quarters",
+    "infobox": {
+      "Internal Name": "Internal Name Starfury",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.35 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 57 (114)",
+      "First Dmg": "Base First Hit 20 (40)",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters"
+    }
+  },
+  {
+    "name": "Vampire Killer",
+    "url": "https://deadcells.fandom.com/wiki/Vampire_Killer",
+    "type": "",
+    "long_description": "Vampire Killer The Mythical Weapon Of The Belmont Clan! Ignores Shields. Deals Critical Damage To Burning Enemies. Enemies Killed By This Weapon Burn The Ground Under Them.Type Melee Weapon Damage Base D Ps 141 (690)Base Combo Damage 225 (420)Base First Hit 55 (42)Base Second Hit 75 (21)Base Third Hit 95 (6969)Blueprint Location Drops From Dracula(1St Kill)Drop Chance 100%Unlock Cost 50",
+    "infobox": {
+      "Type": "Type Melee Weapon",
+      "Base Dps": "Base D Ps 141 (690)",
+      "Combo Dmg": "Base Combo Damage 225 (420)",
+      "First Dmg": "Base First Hit 55 (42)",
+      "Second Dmg": "Base Second Hit 75 (21)",
+      "Third Dmg": "Base Third Hit 95 (6969)",
+      "Blueprint Location": "Location Drops From Dracula(1St Kill)",
+      "Blueprint Chance": "Drop Chance 100%",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Old Wooden Shield",
+    "url": "https://deadcells.fandom.com/wiki/Old_Wooden_Shield",
+    "type": "",
+    "long_description": "Old Wooden Shield Hold To Absorb Partial Damage. Tap To Try Toparryand Block All Damage.Internal Name Start Shield Type Shield Scaling Base Price 1 Damage Base Block Damage 20 (40)Base Absorbed Damage 75%",
+    "infobox": {
+      "Internal Name": "Internal Name Start Shield",
+      "Type": "Type Shield",
+      "Scaling": "Scaling",
+      "Money Cost": "Base Price 1",
+      "Block Dmg": "Base Block Damage 20 (40)",
+      "Absorb Dmg": "Base Absorbed Damage 75%"
+    }
+  },
+  {
+    "name": "Front Line Shield",
+    "url": "https://deadcells.fandom.com/wiki/Front_Line_Shield",
+    "type": "",
+    "long_description": "Front Line Shield Melee Attacks Inflict 50% Extra Damage For 6 Seconds After A Successfulparry.The Tears Of The Community Are Engraved Upon The Inside Of This Shield.Internal Name Warrior Shield Type Shield Scaling Duration 6 Seconds Base Price 1850 Damage Base Block Damage 25 (50)Base Absorbed Damage 75%Base Bonus Hit+20% (Item Boost)Blueprint Location Secret Area In The Ancient Sewers Unlock Cost 5",
+    "infobox": {
+      "Internal Name": "Internal Name Warrior Shield",
+      "Type": "Type Shield",
+      "Scaling": "Scaling",
+      "Duration": "Duration 6 Seconds",
+      "Money Cost": "Base Price 1850",
+      "Block Dmg": "Base Block Damage 25 (50)",
+      "Absorb Dmg": "Base Absorbed Damage 75%",
+      "Extra Dmg": "Base Bonus Hit+20% (Item Boost)",
+      "Blueprint Location": "Location Secret Area In The Ancient Sewers",
+      "Blueprint Cost": "Unlock Cost 5"
+    }
+  },
+  {
+    "name": "Cudgel",
+    "url": "https://deadcells.fandom.com/wiki/Cudgel",
+    "type": "",
+    "long_description": "Cudgel Stuns Blocked Enemies. Stuns Lasts Longer If Aparryis Successful.Internal Name Shield Type Shield Scaling Duration 3.5 (5.5) Seconds (Stun Effect)Base Price 1500 Damage Base Block Damage 20 (40)",
+    "infobox": {
+      "Internal Name": "Internal Name Shield",
+      "Type": "Type Shield",
+      "Scaling": "Scaling",
+      "Duration": "Duration 3.5 (5.5) Seconds (Stun Effect)",
+      "Money Cost": "Base Price 1500",
+      "Block Dmg": "Base Block Damage 20 (40)"
+    }
+  },
+  {
+    "name": "Punishment",
+    "url": "https://deadcells.fandom.com/wiki/Punishment",
+    "type": "",
+    "long_description": "Punishment Blocked Attacks Inflict Damage To Nearby Enemies.Critical Damageifparryis Successful.Internal Name Area Shield Type Shield Scaling Base Price 1500 Damage Base Block Damage 40 (64)Base Absorbed Damage 75%Blueprint Location Puzzle Door In Clock Tower; Requires Bell Tower Key Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Area Shield",
+      "Type": "Type Shield",
+      "Scaling": "Scaling",
+      "Money Cost": "Base Price 1500",
+      "Block Dmg": "Base Block Damage 40 (64)",
+      "Absorb Dmg": "Base Absorbed Damage 75%",
+      "Blueprint Location": "Location Puzzle Door In Clock Tower; Requires Bell Tower Key",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Knockback Shield",
+    "url": "https://deadcells.fandom.com/wiki/Knockback_Shield",
+    "type": "",
+    "long_description": "Knockback Shield Blocked Attacks Knocks Enemies Back, They Take +80 Damage If They Hit A Wall. Double Damage For Aparry.Internal Name Bump Shield Type Shield Scaling Base Price 1500 Damage Base Block Damage 40 (80)Base Absorbed Damage 75%Base Bonus Hit 80 (Wall Damage)Blueprint Location Drops From Catchers Drop Chance 0.4%Unlock Cost 15",
+    "infobox": {
+      "Internal Name": "Internal Name Bump Shield",
+      "Type": "Type Shield",
+      "Scaling": "Scaling",
+      "Money Cost": "Base Price 1500",
+      "Block Dmg": "Base Block Damage 40 (80)",
+      "Absorb Dmg": "Base Absorbed Damage 75%",
+      "Extra Dmg": "Base Bonus Hit 80 (Wall Damage)",
+      "Blueprint Location": "Location Drops From Catchers",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 15"
+    }
+  },
+  {
+    "name": "Rampart",
+    "url": "https://deadcells.fandom.com/wiki/Rampart",
+    "type": "",
+    "long_description": "Rampart Absorbs More Damage. Generates A Force Field For 2 Sec On A Successful Meleeparry.Internal Name Rampart Type Shield Scaling Recharge 1 Second Duration 2 Seconds Base Price 1750 Damage Base Block Damage 20 (40)Base Absorbed Damage 85%Blueprint Location Drops From Shieldbearers Drop Chance 0.4%Unlock Cost 30",
+    "infobox": {
+      "Internal Name": "Internal Name Rampart",
+      "Type": "Type Shield",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 1 Second",
+      "Duration": "Duration 2 Seconds",
+      "Money Cost": "Base Price 1750",
+      "Block Dmg": "Base Block Damage 20 (40)",
+      "Absorb Dmg": "Base Absorbed Damage 85%",
+      "Blueprint Location": "Location Drops From Shieldbearers",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 30"
+    }
+  },
+  {
+    "name": "Assault Shield",
+    "url": "https://deadcells.fandom.com/wiki/Assault_Shield",
+    "type": "",
+    "long_description": "Assault Shield Blocks Attacks While Charging Forward.Internal Name Dash Shield Type Shield Scaling Base Price 2000 Damage Base Block Damage 33 (66)Base Absorbed Damage 75%Blueprint Location Timed Door Room In Promenade Of The Condemned Unlock Cost 40",
+    "infobox": {
+      "Internal Name": "Internal Name Dash Shield",
+      "Type": "Type Shield",
+      "Scaling": "Scaling",
+      "Money Cost": "Base Price 2000",
+      "Block Dmg": "Base Block Damage 33 (66)",
+      "Absorb Dmg": "Base Absorbed Damage 75%",
+      "Blueprint Location": "Location Timed Door Room In Promenade Of The Condemned",
+      "Blueprint Cost": "Unlock Cost 40"
+    }
+  },
+  {
+    "name": "Bloodthirsty Shield",
+    "url": "https://deadcells.fandom.com/wiki/Bloodthirsty_Shield",
+    "type": "",
+    "long_description": "Bloodthirsty Shield Blocked Attacks Inflictbleeding(15 D Ps For 3 Sec). Effect Extended To Nearby Enemies On A Successfulparry.Internal Name Blood Shield Type Shield Scaling Duration 3 Seconds Base Price 2250 Damage Base D Ps 15 (15)Bleeding Base Block Damage 15 (30)Base Absorbed Damage 75%Blueprint Location Drops From Shieldbearers Drop Chance 0.4%Unlock Cost 30",
+    "infobox": {
+      "Internal Name": "Internal Name Blood Shield",
+      "Type": "Type Shield",
+      "Scaling": "Scaling",
+      "Duration": "Duration 3 Seconds",
+      "Money Cost": "Base Price 2250",
+      "Base Dps": "Base D Ps 15 (15)Bleeding",
+      "Block Dmg": "Base Block Damage 15 (30)",
+      "Absorb Dmg": "Base Absorbed Damage 75%",
+      "Blueprint Location": "Location Drops From Shieldbearers",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 30"
+    }
+  },
+  {
+    "name": "Greed Shield",
+    "url": "https://deadcells.fandom.com/wiki/Greed_Shield",
+    "type": "",
+    "long_description": "Greed Shield A Successfulparryknocks Out Enemies' Teeth (1 Per Enemy Every 10 Seconds) And Transforms Arrows Into Gold.Internal Name Greed Shield Type Shield Scaling Base Price 1750 Damage Base Block Damage 50 (100)Base Absorbed Damage 75%",
+    "infobox": {
+      "Internal Name": "Internal Name Greed Shield",
+      "Type": "Type Shield",
+      "Scaling": "Scaling",
+      "Money Cost": "Base Price 1750",
+      "Block Dmg": "Base Block Damage 50 (100)",
+      "Absorb Dmg": "Base Absorbed Damage 75%"
+    }
+  },
+  {
+    "name": "Spiked Shield",
+    "url": "https://deadcells.fandom.com/wiki/Spiked_Shield",
+    "type": "",
+    "long_description": "Spiked Shield Inflicts Major Damage On Blocked Enemies.Internal Name Spike Shield Type Shield Scaling Base Price 1500 Damage Base Block Damage 90 (216)Base Absorbed Damage 75%Blueprint Location Drops From Cleavers Drop Chance 1.7%Unlock Cost 5",
+    "infobox": {
+      "Internal Name": "Internal Name Spike Shield",
+      "Type": "Type Shield",
+      "Scaling": "Scaling",
+      "Money Cost": "Base Price 1500",
+      "Block Dmg": "Base Block Damage 90 (216)",
+      "Absorb Dmg": "Base Absorbed Damage 75%",
+      "Blueprint Location": "Location Drops From Cleavers",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 5"
+    }
+  },
+  {
+    "name": "Parry Shield",
+    "url": "https://deadcells.fandom.com/wiki/Parry_Shield",
+    "type": "",
+    "long_description": "Parry Shield Cannot Be Held Up. Blocked Grenades And Shots Are Returned With Added Power.Internal Name Parry Shield Type Shield Scaling Base Price 1500 Damage Base Block Damage(52)Base Absorbed Damage 0%Blueprint Location Secret Area In Stilt Village Unlock Cost 5",
+    "infobox": {
+      "Internal Name": "Internal Name Parry Shield",
+      "Type": "Type Shield",
+      "Scaling": "Scaling",
+      "Money Cost": "Base Price 1500",
+      "Block Dmg": "Base Block Damage(52)",
+      "Absorb Dmg": "Base Absorbed Damage 0%",
+      "Blueprint Location": "Location Secret Area In Stilt Village",
+      "Blueprint Cost": "Unlock Cost 5"
+    }
+  },
+  {
+    "name": "Force Shield",
+    "url": "https://deadcells.fandom.com/wiki/Force_Shield",
+    "type": "",
+    "long_description": "Force Shield Generates A Temporary Force Field When Held Up. It Regenerates Slowly When The Shield Is Not Held Up.Parriesspeed Up The Process.Internal Name Hold Shield Type Shield Scaling Recharge 35 Seconds (3.5 Seconds Per Ammo)Duration 3 Seconds (0.3 Seconds Per Ammo)Base Price 1500 Damage Base Block Damage 40 (40)Base Absorbed Damage 15%Blueprint Location Drops From Festering Zombies Drop Chance 0.4%Unlock Cost 40",
+    "infobox": {
+      "Internal Name": "Internal Name Hold Shield",
+      "Type": "Type Shield",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 35 Seconds (3.5 Seconds Per Ammo)",
+      "Duration": "Duration 3 Seconds (0.3 Seconds Per Ammo)",
+      "Money Cost": "Base Price 1500",
+      "Block Dmg": "Base Block Damage 40 (40)",
+      "Absorb Dmg": "Base Absorbed Damage 15%",
+      "Blueprint Location": "Location Drops From Festering Zombies",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 40"
+    }
+  },
+  {
+    "name": "Thunder Shield",
+    "url": "https://deadcells.fandom.com/wiki/Thunder_Shield",
+    "type": "",
+    "long_description": "Thunder Shield Inflicts 32Electric Dp S In Front Of You For 8 Seconds When Blocking, Or All Around You After A Successfulparry. Use Again To Stun All Nearby Enemies. Inflicts 32Shock Dp S Around For 3 Seconds.Internal Name Thunder Shield Type Shield Scaling Duration 8 Seconds Base Price 1500 Damage Base D Ps 32 (32)Shock Base Block Damage 40 (40)Base Absorbed Damage 50%Blueprint Location Drops From Defenders Drop Chance 100%Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Thunder Shield",
+      "Type": "Type Shield",
+      "Scaling": "Scaling",
+      "Duration": "Duration 8 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 32 (32)Shock",
+      "Block Dmg": "Base Block Damage 40 (40)",
+      "Absorb Dmg": "Base Absorbed Damage 50%",
+      "Blueprint Location": "Location Drops From Defenders",
+      "Blueprint Chance": "Drop Chance 100%",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Ice Shield",
+    "url": "https://deadcells.fandom.com/wiki/Ice_Shield",
+    "type": "",
+    "long_description": "Ice Shield Parryingan Attackfreezesnearby Enemies. Reflected Projectilesfreezeenemies They Hit.Internal Name Ice Shield Type Shield Scaling Duration 2 Seconds Base Price 1000 Damage Base Block Damage 20 (40)Base Absorbed Damage 75%Blueprint Location Drops From Shieldbearers Drop Chance 10%Unlock Cost 20",
+    "infobox": {
+      "Internal Name": "Internal Name Ice Shield",
+      "Type": "Type Shield",
+      "Scaling": "Scaling",
+      "Duration": "Duration 2 Seconds",
+      "Money Cost": "Base Price 1000",
+      "Block Dmg": "Base Block Damage 20 (40)",
+      "Absorb Dmg": "Base Absorbed Damage 75%",
+      "Blueprint Location": "Location Drops From Shieldbearers",
+      "Blueprint Chance": "Drop Chance 10%",
+      "Blueprint Cost": "Unlock Cost 20"
+    }
+  },
+  {
+    "name": "Powerful Grenade",
+    "url": "https://deadcells.fandom.com/wiki/Powerful_Grenade",
+    "type": "",
+    "long_description": "Powerful Grenade Causes A Large Explosion.Internal Name Explosive Grenade Type Grenade Scaling Recharge 13 Seconds Base Price 2000 Damage Base Hit 200 Blueprint Location Drops From Bombardiers Drop Chance 10%Unlock Cost 20",
+    "infobox": {
+      "Internal Name": "Internal Name Explosive Grenade",
+      "Type": "Type Grenade",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 13 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Single Dmg": "Base Hit 200",
+      "Blueprint Location": "Location Drops From Bombardiers",
+      "Blueprint Chance": "Drop Chance 10%",
+      "Blueprint Cost": "Unlock Cost 20"
+    }
+  },
+  {
+    "name": "Infantry Grenade",
+    "url": "https://deadcells.fandom.com/wiki/Infantry_Grenade",
+    "type": "",
+    "long_description": "Infantry Grenade Quick To Use, But Not Super Powerful.Internal Name Fast Grenade Type Grenade Scaling Recharge 4 Seconds Base Price 1250 Damage Base Hit 90",
+    "infobox": {
+      "Internal Name": "Internal Name Fast Grenade",
+      "Type": "Type Grenade",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 4 Seconds",
+      "Money Cost": "Base Price 1250",
+      "Single Dmg": "Base Hit 90"
+    }
+  },
+  {
+    "name": "Cluster Grenade",
+    "url": "https://deadcells.fandom.com/wiki/Cluster_Grenade",
+    "type": "",
+    "long_description": "Cluster Grenade Breaks Into 6 Bombs (50 Damage Each).Internal Name Cluster Bomb Type Grenade Scaling Combo Rate Six Bombs Per Use Recharge 20 Seconds Base Price 1800 Damage Base Combo Damage 350 (Total Damage Of 7 Bombs)Base Hit 50 Blueprint Location Drops From Slashers Drop Chance 1.7%Unlock Cost 20",
+    "infobox": {
+      "Internal Name": "Internal Name Cluster Bomb",
+      "Type": "Type Grenade",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate Six Bombs Per Use",
+      "Recharge": "Recharge 20 Seconds",
+      "Money Cost": "Base Price 1800",
+      "Combo Dmg": "Base Combo Damage 350 (Total Damage Of 7 Bombs)",
+      "Single Dmg": "Base Hit 50",
+      "Blueprint Location": "Location Drops From Slashers",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 20"
+    }
+  },
+  {
+    "name": "Magnetic Grenade",
+    "url": "https://deadcells.fandom.com/wiki/Magnetic_Grenade",
+    "type": "",
+    "long_description": "Magnetic Grenade Attracts Enemies In A Large Area For A Few Moments, Then Explode, Dealingelectricaldamage.Internal Name Magnet Grenade Type Grenade Scaling Recharge 16 Seconds Duration 3 Seconds Base Price 1800 Damage Base D Ps 20 Base Hit 40 Base Do T D Ps 20Shock Blueprint Location Drops From Grenadiers Drop Chance 0.4%Unlock Cost 60",
+    "infobox": {
+      "Internal Name": "Internal Name Magnet Grenade",
+      "Type": "Type Grenade",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 16 Seconds",
+      "Duration": "Duration 3 Seconds",
+      "Money Cost": "Base Price 1800",
+      "Base Dps": "Base D Ps 20",
+      "Single Dmg": "Base Hit 40",
+      "Dot Dps": "Base Do T D Ps 20Shock",
+      "Blueprint Location": "Location Drops From Grenadiers",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 60"
+    }
+  },
+  {
+    "name": "Stun Grenade",
+    "url": "https://deadcells.fandom.com/wiki/Stun_Grenade",
+    "type": "",
+    "long_description": "Stun Grenade Stuns Enemies (3.5 Sec).Internal Name Stunning Grenade Type Grenade Scaling Recharge 12 Seconds Duration 3.5 Seconds Base Price 1500 Damage Base Hit 45 Blueprint Location Secret Area At The End Of Ramparts Unlock Cost 30",
+    "infobox": {
+      "Internal Name": "Internal Name Stunning Grenade",
+      "Type": "Type Grenade",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 12 Seconds",
+      "Duration": "Duration 3.5 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Single Dmg": "Base Hit 45",
+      "Blueprint Location": "Location Secret Area At The End Of Ramparts",
+      "Blueprint Cost": "Unlock Cost 30"
+    }
+  },
+  {
+    "name": "Ice Grenade",
+    "url": "https://deadcells.fandom.com/wiki/Ice_Grenade",
+    "type": "",
+    "long_description": "Ice Grenade Freezesits Victims.Internal Name Ice Bomb Type Grenade Scaling Recharge 18 Seconds Duration 6 Seconds Base Price 1800 Damage Base Hit 35",
+    "infobox": {
+      "Internal Name": "Internal Name Ice Bomb",
+      "Type": "Type Grenade",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 18 Seconds",
+      "Duration": "Duration 6 Seconds",
+      "Money Cost": "Base Price 1800",
+      "Single Dmg": "Base Hit 35"
+    }
+  },
+  {
+    "name": "Fire Grenade",
+    "url": "https://deadcells.fandom.com/wiki/Fire_Grenade",
+    "type": "",
+    "long_description": "Fire Grenade Burnsnearby Enemies (25 D Ps For 3 Sec).Internal Name Fire Bomb Type Grenade Scaling Recharge 13 Seconds Duration 3 Seconds Ao E Duration 7 Seconds (Fire)Base Price 1750 Damage Base D Ps 25 Base Hit 12 Base Do T D Ps 25Burning Blueprint Location Drops From Grenadiers Drop Chance 1.7%Unlock Cost 5",
+    "infobox": {
+      "Internal Name": "Internal Name Fire Bomb",
+      "Type": "Type Grenade",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 13 Seconds",
+      "Duration": "Duration 3 Seconds",
+      "Aoe Duration": "Ao E Duration 7 Seconds (Fire)",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 25",
+      "Single Dmg": "Base Hit 12",
+      "Dot Dps": "Base Do T D Ps 25Burning",
+      "Blueprint Location": "Location Drops From Grenadiers",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 5"
+    }
+  },
+  {
+    "name": "Root Grenade",
+    "url": "https://deadcells.fandom.com/wiki/Root_Grenade",
+    "type": "",
+    "long_description": "Root Grenade Rootsnearby Enemies Causing 50 D Ps For 4 Seconds.Internal Name Root Bomb Type Grenade Scaling Combo Rate One Tick Every 0.3 Seconds Recharge 16 Seconds Duration 4 Seconds Base Price 1500 Damage Base D Ps 50 Base Do T D Ps 50Root Blueprint Location Timed Door Room After The Black Bridge Unlock Cost 20",
+    "infobox": {
+      "Internal Name": "Internal Name Root Bomb",
+      "Type": "Type Grenade",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Tick Every 0.3 Seconds",
+      "Recharge": "Recharge 16 Seconds",
+      "Duration": "Duration 4 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 50",
+      "Dot Dps": "Base Do T D Ps 50Root",
+      "Blueprint Location": "Location Timed Door Room After The Black Bridge",
+      "Blueprint Cost": "Unlock Cost 20"
+    }
+  },
+  {
+    "name": "Oil Grenade",
+    "url": "https://deadcells.fandom.com/wiki/Oil_Grenade",
+    "type": "",
+    "long_description": "Oil Grenade Spreadsinflammable Oilin Its Area Of Effect.Internal Name Oil Bomb Type Grenade Scaling Recharge 10 Seconds Ao E Duration 35 Seconds Base Price 1000 Damage Base Hit 100 Blueprint Location Drops From Hammers Drop Chance 0.4%Unlock Cost 20",
+    "infobox": {
+      "Internal Name": "Internal Name Oil Bomb",
+      "Type": "Type Grenade",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 10 Seconds",
+      "Aoe Duration": "Ao E Duration 35 Seconds",
+      "Money Cost": "Base Price 1000",
+      "Single Dmg": "Base Hit 100",
+      "Blueprint Location": "Location Drops From Hammers",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 20"
+    }
+  },
+  {
+    "name": "Swarm",
+    "url": "https://deadcells.fandom.com/wiki/Swarm",
+    "type": "",
+    "long_description": "Swarm Summons 8 Biters To Serve You.Internal Name Side Bomb Type Grenade Scaling Combo Rate Two Bites Per Second For Every Biter, Eight Biters Per Use Recharge 10 Seconds Duration 30 Seconds Base Trap Health 25 (Biter Health)Base Price 1500 Damage Base D Ps 18 (Single Biter, 144 Max)Base Hit 9 Blueprint Location Drops From Disgusting Worms Drop Chance 0.4%Unlock Cost 30",
+    "infobox": {
+      "Internal Name": "Internal Name Side Bomb",
+      "Type": "Type Grenade",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate Two Bites Per Second For Every Biter, Eight Biters Per Use",
+      "Recharge": "Recharge 10 Seconds",
+      "Duration": "Duration 30 Seconds",
+      "Trap Hp": "Base Trap Health 25 (Biter Health)",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 18 (Single Biter, 144 Max)",
+      "Single Dmg": "Base Hit 9",
+      "Blueprint Location": "Location Drops From Disgusting Worms",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 30"
+    }
+  },
+  {
+    "name": "Hunter'S Grenade",
+    "url": "https://deadcells.fandom.com/wiki/Hunter%27s_Grenade",
+    "type": "",
+    "long_description": "Hunter'S Grenade Use This To Annoy A Monster. When Its Health Is Down To 40% Or Less, Use \"Blueprint Extractor\".\"Catch 'Em All!\"Internal Name Pokebomb Type Grenade Scaling Base Price 3000 Blueprint Location The Collector- Through Specialist'S Showroom Upgrade Unlock Cost 150",
+    "infobox": {
+      "Internal Name": "Internal Name Pokebomb",
+      "Type": "Type Grenade",
+      "Scaling": "Scaling",
+      "Money Cost": "Base Price 3000",
+      "Blueprint Location": "Location The Collector- Through Specialist'S Showroom Upgrade",
+      "Blueprint Cost": "Unlock Cost 150"
+    }
+  },
+  {
+    "name": "Double Crossb-O-Matic",
+    "url": "https://deadcells.fandom.com/wiki/Double_Crossb-o-matic",
+    "type": "",
+    "long_description": "Double Crossb-O-Matic Shoots At 2 Nearby Enemies At The Same Time. Each Shot Inflicts 45 D Ps.Internal Name Horizontal Turret Type Deployable Scaling Combo Rate One Shot Every 0.2 Seconds Recharge 10 Seconds Base Trap Health 100 Base Price 1750 Damage Base D Ps 45 Base Hit 9 Blueprint Location Drops From Zombies Drop Chance 0.4%Unlock Cost 5",
+    "infobox": {
+      "Internal Name": "Internal Name Horizontal Turret",
+      "Type": "Type Deployable",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Shot Every 0.2 Seconds",
+      "Recharge": "Recharge 10 Seconds",
+      "Trap Hp": "Base Trap Health 100",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 45",
+      "Single Dmg": "Base Hit 9",
+      "Blueprint Location": "Location Drops From Zombies",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 5"
+    }
+  },
+  {
+    "name": "Sinew Slicer",
+    "url": "https://deadcells.fandom.com/wiki/Sinew_Slicer",
+    "type": "",
+    "long_description": "Sinew Slicer Fires Spinning Blades At Nearby Enemies, Inflictingbleeding(10 D Ps For 1.5 Sec).Internal Name Standard Turret Type Deployable Scaling Combo Rate Two 3-Hit Bursts Every Second Recharge 10 Seconds Duration 1.5 Seconds Base Trap Health 80 Base Price 1750 Damage Base D Ps 20 Base Combo Damage 9.9 Base Hit 3.3 Base Do T D Ps 10Bleeding",
+    "infobox": {
+      "Internal Name": "Internal Name Standard Turret",
+      "Type": "Type Deployable",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate Two 3-Hit Bursts Every Second",
+      "Recharge": "Recharge 10 Seconds",
+      "Duration": "Duration 1.5 Seconds",
+      "Trap Hp": "Base Trap Health 80",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 20",
+      "Combo Dmg": "Base Combo Damage 9.9",
+      "Single Dmg": "Base Hit 3.3",
+      "Dot Dps": "Base Do T D Ps 10Bleeding"
+    }
+  },
+  {
+    "name": "Heavy Turret",
+    "url": "https://deadcells.fandom.com/wiki/Heavy_Turret",
+    "type": "",
+    "long_description": "Heavy Turret Shoots At Nearby Enemies. You Inflict +15% More Damage If You'Re Near The Turret.Internal Name Heavy Turret Type Deployable Scaling Combo Rate One Hit Every Second Recharge 10 Seconds Base Trap Health 200 Base Price 1900 Damage Base D Ps 55 Base Hit 55 Base Bonus Hit+15% (Item Boost)Blueprint Location Drops From Slashers Drop Chance 0.4%Unlock Cost 5",
+    "infobox": {
+      "Internal Name": "Internal Name Heavy Turret",
+      "Type": "Type Deployable",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every Second",
+      "Recharge": "Recharge 10 Seconds",
+      "Trap Hp": "Base Trap Health 200",
+      "Money Cost": "Base Price 1900",
+      "Base Dps": "Base D Ps 55",
+      "Single Dmg": "Base Hit 55",
+      "Extra Dmg": "Base Bonus Hit+15% (Item Boost)",
+      "Blueprint Location": "Location Drops From Slashers",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 5"
+    }
+  },
+  {
+    "name": "Flamethrower Turret",
+    "url": "https://deadcells.fandom.com/wiki/Flamethrower_Turret",
+    "type": "",
+    "long_description": "Flamethrower Turret Burnsnearby Enemies (8 D Ps For 1.7 Sec).Internal Name Fire Turret Type Deployable Scaling Combo Rate One 1.7-Second Burst Every 3.6 Seconds Recharge 12 Seconds Duration 1.7 Seconds Base Trap Health 150 Base Price 1500 Damage Base D Ps 8 Base Do T D Ps 8Burn Blueprint Location Drops From Shockers Drop Chance 0.4%Unlock Cost 30",
+    "infobox": {
+      "Internal Name": "Internal Name Fire Turret",
+      "Type": "Type Deployable",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 1.7-Second Burst Every 3.6 Seconds",
+      "Recharge": "Recharge 12 Seconds",
+      "Duration": "Duration 1.7 Seconds",
+      "Trap Hp": "Base Trap Health 150",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 8",
+      "Dot Dps": "Base Do T D Ps 8Burn",
+      "Blueprint Location": "Location Drops From Shockers",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 30"
+    }
+  },
+  {
+    "name": "Cleaver",
+    "url": "https://deadcells.fandom.com/wiki/Cleaver_(Skill)",
+    "type": "",
+    "long_description": "Cleaver Inflictsbleeding(6 D Ps For 1.8 Sec) On Enemies That Walk Over It.Internal Name Ground Saw Type Deployable Scaling Combo Rate One Hit Every 0.3 Seconds Recharge 8 Seconds Duration 1.8 Seconds Base Trap Health 50 Base Price 1500 Damage Base D Ps 50 Base Do T D Ps 6Bleeding Blueprint Location Drops From Runners Drop Chance 1.7%Unlock Cost 30",
+    "infobox": {
+      "Internal Name": "Internal Name Ground Saw",
+      "Type": "Type Deployable",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.3 Seconds",
+      "Recharge": "Recharge 8 Seconds",
+      "Duration": "Duration 1.8 Seconds",
+      "Trap Hp": "Base Trap Health 50",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 50",
+      "Dot Dps": "Base Do T D Ps 6Bleeding",
+      "Blueprint Location": "Location Drops From Runners",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 30"
+    }
+  },
+  {
+    "name": "Wolf Trap",
+    "url": "https://deadcells.fandom.com/wiki/Wolf_Trap",
+    "type": "",
+    "long_description": "Wolf Trap Launches 2 Traps Thatrootenemies Increasing Damage They Take By 34 D Ps For 5 Seconds.Internal Name Root Trap Type Deployable Scaling Combo Rate Two Traps Per Use Recharge 14 Seconds Duration 5 Seconds (Rooteffect/Item Boost)Base Price 1500 Damage Base D Ps+34 (Enemy Debuff)",
+    "infobox": {
+      "Internal Name": "Internal Name Root Trap",
+      "Type": "Type Deployable",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate Two Traps Per Use",
+      "Recharge": "Recharge 14 Seconds",
+      "Duration": "Duration 5 Seconds (Rooteffect/Item Boost)",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps+34 (Enemy Debuff)"
+    }
+  },
+  {
+    "name": "Crusher",
+    "url": "https://deadcells.fandom.com/wiki/Crusher",
+    "type": "",
+    "long_description": "Crusher Slows Downthen Violently Crushes Enemies Caught In Its Zone.Internal Name Crusher Type Deployable Scaling Combo Rate One Hit Every 0.8 Seconds Recharge 14 Seconds Base Price 1750 Damage Base Combo Damage 405 Base First Hit 135 Base Second Hit 135 Base Third Hit 135 Blueprint Location Drops From Lacerators Drop Chance 10%Unlock Cost 30",
+    "infobox": {
+      "Internal Name": "Internal Name Crusher",
+      "Type": "Type Deployable",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.8 Seconds",
+      "Recharge": "Recharge 14 Seconds",
+      "Money Cost": "Base Price 1750",
+      "Combo Dmg": "Base Combo Damage 405",
+      "First Dmg": "Base First Hit 135",
+      "Second Dmg": "Base Second Hit 135",
+      "Third Dmg": "Base Third Hit 135",
+      "Blueprint Location": "Location Drops From Lacerators",
+      "Blueprint Chance": "Drop Chance 10%",
+      "Blueprint Cost": "Unlock Cost 30"
+    }
+  },
+  {
+    "name": "Explosive Decoy",
+    "url": "https://deadcells.fandom.com/wiki/Explosive_Decoy",
+    "type": "",
+    "long_description": "Explosive Decoy Turns You Invisible For 2.5 Sec And Attracts Nearby Enemies. Explodes After 2.5 Sec.Internal Name Decoy Type Deployable Scaling Recharge 20 Seconds Duration 2.5 Seconds (Invisibility Effect/Trap Lifetime)Base Price 1500 Damage Base Combo Damage 154 Base Hit 22 (Single Grenade)Blueprint Location Drops From Protectors Drop Chance 0.4%Unlock Cost 40",
+    "infobox": {
+      "Internal Name": "Internal Name Decoy",
+      "Type": "Type Deployable",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 20 Seconds",
+      "Duration": "Duration 2.5 Seconds (Invisibility Effect/Trap Lifetime)",
+      "Money Cost": "Base Price 1500",
+      "Combo Dmg": "Base Combo Damage 154",
+      "Single Dmg": "Base Hit 22 (Single Grenade)",
+      "Blueprint Location": "Location Drops From Protectors",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 40"
+    }
+  },
+  {
+    "name": "Emergency Door",
+    "url": "https://deadcells.fandom.com/wiki/Emergency_Door",
+    "type": "",
+    "long_description": "Emergency Door Deploys An Ethereal Door.Internal Name Portable Door Type Deployable Scaling Recharge 10 Seconds Base Trap Health 100 Base Price 1337 Damage Base Hit 1 Blueprint Location Special Lore Room In The Slumbering Sanctuary Unlock Cost 42",
+    "infobox": {
+      "Internal Name": "Internal Name Portable Door",
+      "Type": "Type Deployable",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 10 Seconds",
+      "Trap Hp": "Base Trap Health 100",
+      "Money Cost": "Base Price 1337",
+      "Single Dmg": "Base Hit 1",
+      "Blueprint Location": "Location Special Lore Room In The Slumbering Sanctuary",
+      "Blueprint Cost": "Unlock Cost 42"
+    }
+  },
+  {
+    "name": "Tesla Coil",
+    "url": "https://deadcells.fandom.com/wiki/Tesla_Coil",
+    "type": "",
+    "long_description": "Tesla Coil Shoots Lightning At Nearby Enemies And Inflictsshock.Internal Name Tesla Coil Type Deployable Scaling Recharge 10 Seconds Base Trap Health 150 Base Price 1750 Damage Base D Ps 23 Base Do T D Ps 18Shock Blueprint Location Drops From Living Barrels Drop Chance 10%Unlock Cost 40",
+    "infobox": {
+      "Internal Name": "Internal Name Tesla Coil",
+      "Type": "Type Deployable",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 10 Seconds",
+      "Trap Hp": "Base Trap Health 150",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 23",
+      "Dot Dps": "Base Do T D Ps 18Shock",
+      "Blueprint Location": "Location Drops From Living Barrels",
+      "Blueprint Chance": "Drop Chance 10%",
+      "Blueprint Cost": "Unlock Cost 40"
+    }
+  },
+  {
+    "name": "Scavenged Bombard",
+    "url": "https://deadcells.fandom.com/wiki/Scavenged_Bombard",
+    "type": "",
+    "long_description": "Scavenged Bombard Shoots Heavy Cannonballs At Nearby Enemies. Short Activation Range And Slow Rate Of Fire.They Don'T Need It Anymore.Internal Name Cannon Type Deployable Scaling Combo Rate One Shot Every 1.5 Seconds Recharge 14 Seconds Base Trap Health 200 Base Price 1900 Damage Base D Ps 60 Base Hit 90 (Direct Hit)Base Bonus Hit 30 (Explosion)Blueprint Location Drops From Pirate Captains Drop Chance 1.7%Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Cannon",
+      "Type": "Type Deployable",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Shot Every 1.5 Seconds",
+      "Recharge": "Recharge 14 Seconds",
+      "Trap Hp": "Base Trap Health 200",
+      "Money Cost": "Base Price 1900",
+      "Base Dps": "Base D Ps 60",
+      "Single Dmg": "Base Hit 90 (Direct Hit)",
+      "Extra Dmg": "Base Bonus Hit 30 (Explosion)",
+      "Blueprint Location": "Location Drops From Pirate Captains",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Night Light",
+    "url": "https://deadcells.fandom.com/wiki/Night_Light",
+    "type": "",
+    "long_description": "Night Light Lights Up Your Path.Internal Name Darkness Lantern Type Deployable Recharge 120 Seconds",
+    "infobox": {
+      "Internal Name": "Internal Name Darkness Lantern",
+      "Type": "Type Deployable",
+      "Recharge": "Recharge 120 Seconds"
+    }
+  },
+  {
+    "name": "Barnacle",
+    "url": "https://deadcells.fandom.com/wiki/Barnacle",
+    "type": "",
+    "long_description": "Barnacle Shoots Enemies Who Pass Beneath It, Dealingcritical Hitsonpoisonedenemies.Internal Name Ceil Turret Type Deployable Scaling Combo Rate One Hit Every 0.38 Seconds Recharge 10 Seconds Base Trap Health 20 Base Price 1500 Damage Base D Ps 80 (160)Base Hit 30.4 (60.8)Blueprint Location Drops From Thornies Drop Chance 1.7%Unlock Cost 40",
+    "infobox": {
+      "Internal Name": "Internal Name Ceil Turret",
+      "Type": "Type Deployable",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Hit Every 0.38 Seconds",
+      "Recharge": "Recharge 10 Seconds",
+      "Trap Hp": "Base Trap Health 20",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 80 (160)",
+      "Single Dmg": "Base Hit 30.4 (60.8)",
+      "Blueprint Location": "Location Drops From Thornies",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 40"
+    }
+  },
+  {
+    "name": "Barricade",
+    "url": "https://deadcells.fandom.com/wiki/Diverse_Deck",
+    "type": "",
+    "long_description": "Barricade Catalyst Electrodynamics Foresight Barricade Draw: You Gain 30 Bonus Healththat Persists Indefinitely Passive: Each Successfulparrygrants 10 Bonus Healthfor 15 Sec.Discard: Remove All Current Bonus Healthand Deal Damage Depending On The Quantity Removed.At The Core Of An Ancient Strategy Called The 999 Block.Type Power Recharge 15 Base Price 2000 Damage Base Hit 30 Catalyst Passive: Your Melee Attackspoisonthe Enemies They Hit.Discard: Nearby Enemies Lose All Their Damage-Over-Time Stacks Then Are Dealt The Remaining Damage Of These Effects.You Can Wait For The Last Straw To Break The Camel Back... Or Push The Poor Beast Yourself!Type Power Recharge 5 Base Price 2000 Electrodynamics Draw: Creates A Lightning Orb That Gravitates Around You, Dealing 8 Damage On Impact.Passive: Each Time You Use Your Other Skill, Creates An Additional Orb (Max: 3 Orbs).Discard: Destroys All Your Active Orbs. Thunder Strikes A Nearby Enemy For Each Orb Destroyed That Way, Dealing 55 Damage.Less Hazardous When Wearing A Faraday Outfit.Type Power Recharge 5 Base Price 2000 Damage Base D Ps 4 Base Hit 8 Foresight Passive: After Killing 8 Enemies You Ignore The First Damage Taken.Discard: You Become Immune To All Sources Of Damage For 2 Sec.You Don'T Even Know That I'M Still Not Dead!Type Power Recharge 5 Base Price 2000 Blueprint Location Lore Room In The Prisoners' Quarters",
+    "infobox": {
+      "Type": "Type Power",
+      "Recharge": "Recharge 15",
+      "Money Cost": "Base Price 2000",
+      "Single Dmg": "Base Hit 30",
+      "Type 2": "Type Power",
+      "Recharge 2": "Recharge 5",
+      "Money Cost 2": "Base Price 2000",
+      "Type 3": "Type Power",
+      "Recharge 3": "Recharge 5",
+      "Money Cost 3": "Base Price 2000",
+      "Base Dps 3": "Base D Ps 4",
+      "Single Dmg 3": "Base Hit 8",
+      "Type 4": "Type Power",
+      "Recharge 4": "Recharge 5",
+      "Money Cost 4": "Base Price 2000",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters"
+    }
+  },
+  {
+    "name": "Catalyst",
+    "url": "https://deadcells.fandom.com/wiki/Diverse_Deck",
+    "type": "",
+    "long_description": "Barricade Catalyst Electrodynamics Foresight Barricade Draw: You Gain 30 Bonus Healththat Persists Indefinitely Passive: Each Successfulparrygrants 10 Bonus Healthfor 15 Sec.Discard: Remove All Current Bonus Healthand Deal Damage Depending On The Quantity Removed.At The Core Of An Ancient Strategy Called The 999 Block.Type Power Recharge 15 Base Price 2000 Damage Base Hit 30 Catalyst Passive: Your Melee Attackspoisonthe Enemies They Hit.Discard: Nearby Enemies Lose All Their Damage-Over-Time Stacks Then Are Dealt The Remaining Damage Of These Effects.You Can Wait For The Last Straw To Break The Camel Back... Or Push The Poor Beast Yourself!Type Power Recharge 5 Base Price 2000 Electrodynamics Draw: Creates A Lightning Orb That Gravitates Around You, Dealing 8 Damage On Impact.Passive: Each Time You Use Your Other Skill, Creates An Additional Orb (Max: 3 Orbs).Discard: Destroys All Your Active Orbs. Thunder Strikes A Nearby Enemy For Each Orb Destroyed That Way, Dealing 55 Damage.Less Hazardous When Wearing A Faraday Outfit.Type Power Recharge 5 Base Price 2000 Damage Base D Ps 4 Base Hit 8 Foresight Passive: After Killing 8 Enemies You Ignore The First Damage Taken.Discard: You Become Immune To All Sources Of Damage For 2 Sec.You Don'T Even Know That I'M Still Not Dead!Type Power Recharge 5 Base Price 2000 Blueprint Location Lore Room In The Prisoners' Quarters",
+    "infobox": {
+      "Type": "Type Power",
+      "Recharge": "Recharge 15",
+      "Money Cost": "Base Price 2000",
+      "Single Dmg": "Base Hit 30",
+      "Type 2": "Type Power",
+      "Recharge 2": "Recharge 5",
+      "Money Cost 2": "Base Price 2000",
+      "Type 3": "Type Power",
+      "Recharge 3": "Recharge 5",
+      "Money Cost 3": "Base Price 2000",
+      "Base Dps 3": "Base D Ps 4",
+      "Single Dmg 3": "Base Hit 8",
+      "Type 4": "Type Power",
+      "Recharge 4": "Recharge 5",
+      "Money Cost 4": "Base Price 2000",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters"
+    }
+  },
+  {
+    "name": "Electrodynamics",
+    "url": "https://deadcells.fandom.com/wiki/Diverse_Deck",
+    "type": "",
+    "long_description": "Barricade Catalyst Electrodynamics Foresight Barricade Draw: You Gain 30 Bonus Healththat Persists Indefinitely Passive: Each Successfulparrygrants 10 Bonus Healthfor 15 Sec.Discard: Remove All Current Bonus Healthand Deal Damage Depending On The Quantity Removed.At The Core Of An Ancient Strategy Called The 999 Block.Type Power Recharge 15 Base Price 2000 Damage Base Hit 30 Catalyst Passive: Your Melee Attackspoisonthe Enemies They Hit.Discard: Nearby Enemies Lose All Their Damage-Over-Time Stacks Then Are Dealt The Remaining Damage Of These Effects.You Can Wait For The Last Straw To Break The Camel Back... Or Push The Poor Beast Yourself!Type Power Recharge 5 Base Price 2000 Electrodynamics Draw: Creates A Lightning Orb That Gravitates Around You, Dealing 8 Damage On Impact.Passive: Each Time You Use Your Other Skill, Creates An Additional Orb (Max: 3 Orbs).Discard: Destroys All Your Active Orbs. Thunder Strikes A Nearby Enemy For Each Orb Destroyed That Way, Dealing 55 Damage.Less Hazardous When Wearing A Faraday Outfit.Type Power Recharge 5 Base Price 2000 Damage Base D Ps 4 Base Hit 8 Foresight Passive: After Killing 8 Enemies You Ignore The First Damage Taken.Discard: You Become Immune To All Sources Of Damage For 2 Sec.You Don'T Even Know That I'M Still Not Dead!Type Power Recharge 5 Base Price 2000 Blueprint Location Lore Room In The Prisoners' Quarters",
+    "infobox": {
+      "Type": "Type Power",
+      "Recharge": "Recharge 15",
+      "Money Cost": "Base Price 2000",
+      "Single Dmg": "Base Hit 30",
+      "Type 2": "Type Power",
+      "Recharge 2": "Recharge 5",
+      "Money Cost 2": "Base Price 2000",
+      "Type 3": "Type Power",
+      "Recharge 3": "Recharge 5",
+      "Money Cost 3": "Base Price 2000",
+      "Base Dps 3": "Base D Ps 4",
+      "Single Dmg 3": "Base Hit 8",
+      "Type 4": "Type Power",
+      "Recharge 4": "Recharge 5",
+      "Money Cost 4": "Base Price 2000",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters"
+    }
+  },
+  {
+    "name": "Foresight",
+    "url": "https://deadcells.fandom.com/wiki/Diverse_Deck",
+    "type": "",
+    "long_description": "Barricade Catalyst Electrodynamics Foresight Barricade Draw: You Gain 30 Bonus Healththat Persists Indefinitely Passive: Each Successfulparrygrants 10 Bonus Healthfor 15 Sec.Discard: Remove All Current Bonus Healthand Deal Damage Depending On The Quantity Removed.At The Core Of An Ancient Strategy Called The 999 Block.Type Power Recharge 15 Base Price 2000 Damage Base Hit 30 Catalyst Passive: Your Melee Attackspoisonthe Enemies They Hit.Discard: Nearby Enemies Lose All Their Damage-Over-Time Stacks Then Are Dealt The Remaining Damage Of These Effects.You Can Wait For The Last Straw To Break The Camel Back... Or Push The Poor Beast Yourself!Type Power Recharge 5 Base Price 2000 Electrodynamics Draw: Creates A Lightning Orb That Gravitates Around You, Dealing 8 Damage On Impact.Passive: Each Time You Use Your Other Skill, Creates An Additional Orb (Max: 3 Orbs).Discard: Destroys All Your Active Orbs. Thunder Strikes A Nearby Enemy For Each Orb Destroyed That Way, Dealing 55 Damage.Less Hazardous When Wearing A Faraday Outfit.Type Power Recharge 5 Base Price 2000 Damage Base D Ps 4 Base Hit 8 Foresight Passive: After Killing 8 Enemies You Ignore The First Damage Taken.Discard: You Become Immune To All Sources Of Damage For 2 Sec.You Don'T Even Know That I'M Still Not Dead!Type Power Recharge 5 Base Price 2000 Blueprint Location Lore Room In The Prisoners' Quarters",
+    "infobox": {
+      "Type": "Type Power",
+      "Recharge": "Recharge 15",
+      "Money Cost": "Base Price 2000",
+      "Single Dmg": "Base Hit 30",
+      "Type 2": "Type Power",
+      "Recharge 2": "Recharge 5",
+      "Money Cost 2": "Base Price 2000",
+      "Type 3": "Type Power",
+      "Recharge 3": "Recharge 5",
+      "Money Cost 3": "Base Price 2000",
+      "Base Dps 3": "Base D Ps 4",
+      "Single Dmg 3": "Base Hit 8",
+      "Type 4": "Type Power",
+      "Recharge 4": "Recharge 5",
+      "Money Cost 4": "Base Price 2000",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters"
+    }
+  },
+  {
+    "name": "Taunt",
+    "url": "https://deadcells.fandom.com/wiki/Taunt",
+    "type": "",
+    "long_description": "Taunt Taunts An Enemy, Causing It To Frantically Pursue You For 20 Sec But Take 75% More Damage From Your Melee Attacks.Requires Language (Old Times) Or Language (Foul) Mastery.Type Power Scaling Recharge 15 Seconds Duration 20 Seconds Base Price 2000 Blueprint Location Reward For Beating The 2Nd Stage In Boss Rush Unlock Cost 100",
+    "infobox": {
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 15 Seconds",
+      "Duration": "Duration 20 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Blueprint Location": "Location Reward For Beating The 2Nd Stage In Boss Rush",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Death Orb",
+    "url": "https://deadcells.fandom.com/wiki/Death_Orb",
+    "type": "",
+    "long_description": "Death Orb Creates A Slow-Moving But Devastating Orb.Internal Name Slow Orb Type Power Scaling Combo Rate One Damage Tick Every 0.18 Seconds Recharge 20 Seconds Duration 12 Seconds Base Price 1750 Damage Base D Ps 125 Base Hit 50 Blueprint Location Drops From Cleavers Drop Chance 0.4%Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Slow Orb",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One Damage Tick Every 0.18 Seconds",
+      "Recharge": "Recharge 20 Seconds",
+      "Duration": "Duration 12 Seconds",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 125",
+      "Single Dmg": "Base Hit 50",
+      "Blueprint Location": "Location Drops From Cleavers",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Tornado",
+    "url": "https://deadcells.fandom.com/wiki/Tornado",
+    "type": "",
+    "long_description": "Tornado Inflicts Damage On All Targets Caught Inside. Changes Direction When It Hits A Wall.Internal Name Tornado Type Power Scaling Recharge 18 Seconds Duration 10 Seconds Base Price 2000 Damage Base D Ps 100 Base Hit 8 Blueprint Location Drops From Guardian Knights Drop Chance 0.4%Unlock Cost 60",
+    "infobox": {
+      "Internal Name": "Internal Name Tornado",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 18 Seconds",
+      "Duration": "Duration 10 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 100",
+      "Single Dmg": "Base Hit 8",
+      "Blueprint Location": "Location Drops From Guardian Knights",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 60"
+    }
+  },
+  {
+    "name": "Knife Dance",
+    "url": "https://deadcells.fandom.com/wiki/Knife_Dance",
+    "type": "",
+    "long_description": "Knife Dance Launches A Storm Of Knives Around You, Causingbleeding(40 D Ps For 4 Sec).Internal Name Knives Circle Type Power Scaling Combo Rate 16 Knives Every Use Recharge 16 Seconds Duration 4 Seconds (Bleedingeffect)Base Price 1250 Damage Base D Ps 40 (Bleedingeffect)Base Hit 5 (Impact Damage Per Knife)Blueprint Location Drops From Bats Drop Chance 0.4%Unlock Cost 5",
+    "infobox": {
+      "Internal Name": "Internal Name Knives Circle",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate 16 Knives Every Use",
+      "Recharge": "Recharge 16 Seconds",
+      "Duration": "Duration 4 Seconds (Bleedingeffect)",
+      "Money Cost": "Base Price 1250",
+      "Base Dps": "Base D Ps 40 (Bleedingeffect)",
+      "Single Dmg": "Base Hit 5 (Impact Damage Per Knife)",
+      "Blueprint Location": "Location Drops From Bats",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 5"
+    }
+  },
+  {
+    "name": "Corrupted Power",
+    "url": "https://deadcells.fandom.com/wiki/Corrupted_Power",
+    "type": "",
+    "long_description": "Corrupted Power Increase The Damage You Deal By +50% For 8 Sec. You Take +30% Damage During This Time.Internal Name Damage Buff Type Power Scaling Recharge 16 Seconds Duration 8 Seconds Base Price 2000 Blueprint Location Drops From Protectors Drop Chance 0.4%Unlock Cost 80",
+    "infobox": {
+      "Internal Name": "Internal Name Damage Buff",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 16 Seconds",
+      "Duration": "Duration 8 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Blueprint Location": "Location Drops From Protectors",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 80"
+    }
+  },
+  {
+    "name": "Vampirism",
+    "url": "https://deadcells.fandom.com/wiki/Vampirism",
+    "type": "",
+    "long_description": "Vampirism Sacrifices [40% Base] Of Your Maximum Health To Recover 2% Of Your H P Per Melee Attack And A Speed Boost For 10 Seconds.Internal Name Leech Buff Type Power Scaling Recharge 30 Seconds Duration 10 Seconds Base Price 1500 Blueprint Location Drops From Inquisitors Drop Chance 0.4%Unlock Cost 80",
+    "infobox": {
+      "Internal Name": "Internal Name Leech Buff",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 30 Seconds",
+      "Duration": "Duration 10 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Blueprint Location": "Location Drops From Inquisitors",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 80"
+    }
+  },
+  {
+    "name": "Tonic",
+    "url": "https://deadcells.fandom.com/wiki/Tonic",
+    "type": "",
+    "long_description": "Tonic Grants You 40% Of Your Missing Health Asbonus Health, Reduces Damage Taken By 20% For 9 Seconds.Internal Name Extra Heal Type Power Scaling Recharge 30 Seconds Duration 9 Seconds Base Price 1000",
+    "infobox": {
+      "Internal Name": "Internal Name Extra Heal",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 30 Seconds",
+      "Duration": "Duration 9 Seconds",
+      "Money Cost": "Base Price 1000"
+    }
+  },
+  {
+    "name": "Grappling Hook",
+    "url": "https://deadcells.fandom.com/wiki/Grappling_Hook",
+    "type": "",
+    "long_description": "Grappling Hook Pulls An Enemy Towards You. The Next Attack On This Enemy Inflicts +40% Damage And Stuns For 1 Sec.Yes, Just Like Scorpion...Internal Name Hook Type Power Scaling Recharge 3 Seconds Duration 1 Second (Stun Effect)Base Price 1500 Damage Base First Hit 1 (Hook Impact)Base Second Hit+40% (Item Boost)Blueprint Location Drops From Catchers Drop Chance 0.4%Unlock Cost 40",
+    "infobox": {
+      "Internal Name": "Internal Name Hook",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 3 Seconds",
+      "Duration": "Duration 1 Second (Stun Effect)",
+      "Money Cost": "Base Price 1500",
+      "First Dmg": "Base First Hit 1 (Hook Impact)",
+      "Second Dmg": "Base Second Hit+40% (Item Boost)",
+      "Blueprint Location": "Location Drops From Catchers",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 40"
+    }
+  },
+  {
+    "name": "Phaser",
+    "url": "https://deadcells.fandom.com/wiki/Phaser",
+    "type": "",
+    "long_description": "Phaser Teleports You Behind The Enemy. The Next Attack Inflicts +70 Damage.Internal Name Back Blink Type Power Scaling Recharge 2 Seconds Base Price 2000 Damage Base Hit 70 Blueprint Location Drops From Runners Drop Chance 0.4%Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Back Blink",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 2 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Single Dmg": "Base Hit 70",
+      "Blueprint Location": "Location Drops From Runners",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Corrosive Cloud",
+    "url": "https://deadcells.fandom.com/wiki/Corrosive_Cloud",
+    "type": "",
+    "long_description": "Corrosive Cloud Creates A Toxic Cloud That Lasts 15 Sec, Inflictingbleedandpoisondamage (8 D Ps For 2 Sec).Internal Name Toxic Cloud Type Power Scaling Recharge 20 Seconds Duration 2 Seconds (Bleed/Poisoneffect)Ao E Duration 15 Seconds Base Price 1500 Damage Base Do T D Ps 8Bleed/Poison Blueprint Location Drops From Swarm Zombies Drop Chance 0.4%Unlock Cost 40",
+    "infobox": {
+      "Internal Name": "Internal Name Toxic Cloud",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 20 Seconds",
+      "Duration": "Duration 2 Seconds (Bleed/Poisoneffect)",
+      "Aoe Duration": "Ao E Duration 15 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Dot Dps": "Base Do T D Ps 8Bleed/Poison",
+      "Blueprint Location": "Location Drops From Swarm Zombies",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 40"
+    }
+  },
+  {
+    "name": "Lacerating Aura",
+    "url": "https://deadcells.fandom.com/wiki/Lacerating_Aura",
+    "type": "",
+    "long_description": "Lacerating Aura Inflicts Damage On Nearby Targets.Internal Name Damage Aura Type Power Scaling Combo Rate 7.7 Damage Ticks Per Second Recharge 12 Seconds Duration 3.7 Seconds Base Price 1500 Damage Base D Ps 77 Base Hit 7.7 (Damage Tick)Blueprint Location Daily Run - Fifth Completion Unlock Cost 30",
+    "infobox": {
+      "Internal Name": "Internal Name Damage Aura",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate 7.7 Damage Ticks Per Second",
+      "Recharge": "Recharge 12 Seconds",
+      "Duration": "Duration 3.7 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 77",
+      "Single Dmg": "Base Hit 7.7 (Damage Tick)",
+      "Blueprint Location": "Location Daily Run - Fifth Completion",
+      "Blueprint Cost": "Unlock Cost 30"
+    }
+  },
+  {
+    "name": "Wave Of Denial",
+    "url": "https://deadcells.fandom.com/wiki/Wave_of_Denial",
+    "type": "",
+    "long_description": "Wave Of Denial Repels All Nearby Enemies. If An Enemy Is Thrown Against A Wall, It Takes +90 Damage.Internal Name Shockwave Type Power Scaling Recharge 5 Seconds Base Price 1500 Damage Base Combo Damage 120 Base Hit 30 Base Bonus Hit 90 (Wall Damage)Blueprint Location Drops From Bombardiers Drop Chance 0.4%Unlock Cost 5",
+    "infobox": {
+      "Internal Name": "Internal Name Shockwave",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 5 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Combo Dmg": "Base Combo Damage 120",
+      "Single Dmg": "Base Hit 30",
+      "Extra Dmg": "Base Bonus Hit 90 (Wall Damage)",
+      "Blueprint Location": "Location Drops From Bombardiers",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 5"
+    }
+  },
+  {
+    "name": "Wings Of The Crow",
+    "url": "https://deadcells.fandom.com/wiki/Wings_of_the_Crow",
+    "type": "",
+    "long_description": "Wings Of The Crow Causes You To Float In The Air Dealing 50Shock Dp S Around You For 3 Seconds.Craaaawwwww!Internal Name Wings Type Power Scaling Combo Rate Four Damage Ticks Per Second; 3 Bolts Per Tick Recharge 15 Seconds Duration 15 Seconds Base Price 1500 Damage Base D Ps 75 Base First Hit 50 Base Do T D Ps 50Shock Blueprint Location Drops From Golems Drop Chance 10%Unlock Cost 70",
+    "infobox": {
+      "Internal Name": "Internal Name Wings",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate Four Damage Ticks Per Second; 3 Bolts Per Tick",
+      "Recharge": "Recharge 15 Seconds",
+      "Duration": "Duration 15 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 75",
+      "First Dmg": "Base First Hit 50",
+      "Dot Dps": "Base Do T D Ps 50Shock",
+      "Blueprint Location": "Location Drops From Golems",
+      "Blueprint Chance": "Drop Chance 10%",
+      "Blueprint Cost": "Unlock Cost 70"
+    }
+  },
+  {
+    "name": "Blueprint Extractor",
+    "url": "https://deadcells.fandom.com/wiki/Blueprint_Extractor",
+    "type": "",
+    "long_description": "Blueprint Extractor Use This On An Enemy Transformed By The \"Hunter'S Grenade\" That Has Less Than 40% Health Left.Internal Name Pokecharge Type Power Scaling Duration 1.3 Seconds Blueprint Location The Collector- Through Specialist'S Showroom Upgrade Unlock Cost 150",
+    "infobox": {
+      "Internal Name": "Internal Name Pokecharge",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Duration": "Duration 1.3 Seconds",
+      "Blueprint Location": "Location The Collector- Through Specialist'S Showroom Upgrade",
+      "Blueprint Cost": "Unlock Cost 150"
+    }
+  },
+  {
+    "name": "Forgotten Map",
+    "url": "https://deadcells.fandom.com/wiki/Forgotten_Map",
+    "type": "",
+    "long_description": "Forgotten Map Reveals Your Surroundings. Only Works Once.Internal Name Map Type Power Scaling Base Price 4000 Blueprint Location The Collector- Through Specialist'S Showroom Upgrade Unlock Cost 150",
+    "infobox": {
+      "Internal Name": "Internal Name Map",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Money Cost": "Base Price 4000",
+      "Blueprint Location": "Location The Collector- Through Specialist'S Showroom Upgrade",
+      "Blueprint Cost": "Unlock Cost 150"
+    }
+  },
+  {
+    "name": "Great Owl Of War",
+    "url": "https://deadcells.fandom.com/wiki/Great_Owl_of_War",
+    "type": "",
+    "long_description": "Great Owl Of War Normal Second Activation Summon A Great Owl Pet (32 D Ps). Activating This Skill Again Will Anger The Great Owl (95 D Ps). The Great Owl Disappears If You Take Any Damage.Internal Name Owl Owl Up Type Power Scaling Recharge 10 Seconds (34 Seconds)Duration Until The Player Takes Damage (10 Seconds)Base Price 1750 Damage Base D Ps 32 (95)Blueprint Location Drops From Knife Throwers Drop Chance 1+ B Sc; 1.7%Unlock Cost 100",
+    "infobox": {
+      "Overrideimage": "Normal Second Activation",
+      "Internal Name": "Internal Name Owl Owl Up",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 10 Seconds (34 Seconds)",
+      "Duration": "Duration Until The Player Takes Damage (10 Seconds)",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 32 (95)",
+      "Blueprint Location": "Location Drops From Knife Throwers",
+      "Blueprint Chance": "Drop Chance 1+ B Sc; 1.7%",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Lightspeed",
+    "url": "https://deadcells.fandom.com/wiki/Lightspeed",
+    "type": "",
+    "long_description": "Lightspeed Normal Second Activation Dash Forward And Inflicts 100 Damage To The Enemies On The Way. Activate Again To Dash Back.Look Behind You!I Said \"Behind\"Internal Name Dash Back Dash Type Power Scaling Recharge 7-10 Seconds Base Price 2000 Damage Base Combo Damage 142 Base First Hit 100 Base Second Hit 42 Blueprint Location Drops From The Time Keeper(1St Kill)Unlock Cost 75",
+    "infobox": {
+      "Overrideimage": "Normal Second Activation",
+      "Internal Name": "Internal Name Dash Back Dash",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 7-10 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Combo Dmg": "Base Combo Damage 142",
+      "First Dmg": "Base First Hit 100",
+      "Second Dmg": "Base Second Hit 42",
+      "Blueprint Location": "Location Drops From The Time Keeper(1St Kill)",
+      "Blueprint Cost": "Unlock Cost 75"
+    }
+  },
+  {
+    "name": "Giant Whistle",
+    "url": "https://deadcells.fandom.com/wiki/Giant_Whistle",
+    "type": "",
+    "long_description": "Giant Whistle Inflict 500 Damage To The Most Dangerous Enemy Around... Most Dangerous A Cc Or Di Ng To The Giant.Give Me Five!Internal Name Giant Whistle Type Power Scaling Recharge 20 Seconds Duration 1-1.1 Second Base Price 2000 Damage Base Hit 500 Blueprint Location Drops From The Giant(3Rd Kill)Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Giant Whistle",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 20 Seconds",
+      "Duration": "Duration 1-1.1 Second",
+      "Money Cost": "Base Price 2000",
+      "Single Dmg": "Base Hit 500",
+      "Blueprint Location": "Location Drops From The Giant(3Rd Kill)",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Telluric Shock",
+    "url": "https://deadcells.fandom.com/wiki/Telluric_Shock",
+    "type": "",
+    "long_description": "Telluric Shock Leap In The Air And Violently Land Back On The Ground To Inflict 150 Damage To The Enemies Around.Ready To Rumble?Internal Name Seismic Stomp Type Power Scaling Recharge 10 Seconds Duration 0.3 Seconds 5 Seconds (Spikes Effect)Base Price 2000 Damage Base Hit 150 Blueprint Location Drops From The Hand Of The King(1St Kill)Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Seismic Stomp",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 10 Seconds",
+      "Duration": "Duration 0.3 Seconds 5 Seconds (Spikes Effect)",
+      "Money Cost": "Base Price 2000",
+      "Single Dmg": "Base Hit 150",
+      "Blueprint Location": "Location Drops From The Hand Of The King(1St Kill)",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Collector'S Syringe",
+    "url": "https://deadcells.fandom.com/wiki/Collector%27s_Syringe",
+    "type": "",
+    "long_description": "Collector'S Syringe Spin The Syringe Around You To Inflict Damage. Activate Again To Add 40 D Ps (Up To 5 Times) And 5 Secs, For A Mere Few Cells.Become The Spin Doctor.Internal Name Collector Spin Type Power Scaling Combo Rate 10 Damage Ticks Per Second Recharge 20 Seconds Duration 5 Seconds Base Price 4000 Damage Base D Ps 40-240 Base Hit 4-24 Blueprint Location Drops From The Collector(1St Kill)Unlock Cost 200",
+    "infobox": {
+      "Internal Name": "Internal Name Collector Spin",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate 10 Damage Ticks Per Second",
+      "Recharge": "Recharge 20 Seconds",
+      "Duration": "Duration 5 Seconds",
+      "Money Cost": "Base Price 4000",
+      "Base Dps": "Base D Ps 40-240",
+      "Single Dmg": "Base Hit 4-24",
+      "Blueprint Location": "Location Drops From The Collector(1St Kill)",
+      "Blueprint Cost": "Unlock Cost 200"
+    }
+  },
+  {
+    "name": "Smoke Bomb",
+    "url": "https://deadcells.fandom.com/wiki/Smoke_Bomb",
+    "type": "",
+    "long_description": "Smoke Bomb Releases A Cloud Of Smoke Making You Invisible For 8 Seconds. The First Invisible Attack Inflicts +50% Damage.Internal Name Smoke Bomb Type Power Scaling Recharge 16 Seconds Duration 8 Seconds Base Price 1500 Damage Base Hit+50% (Item Boost)Blueprint Location Drops From The Banished Drop Chance 0.4%Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Smoke Bomb",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 16 Seconds",
+      "Duration": "Duration 8 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Single Dmg": "Base Hit+50% (Item Boost)",
+      "Blueprint Location": "Location Drops From The Banished",
+      "Blueprint Chance": "Drop Chance 0.4%",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Mushroom Boi!",
+    "url": "https://deadcells.fandom.com/wiki/Mushroom_Boi!",
+    "type": "",
+    "long_description": "Mushroom Boi!Normal Second Activation Spawns A Friendly Mushroom Boi Which Charges And Interrupts Enemies Inflicting 50 Damage And 100 Extra Damage If The Enemy Hits A Wall. Trigger It Again To Inflict 300 Damage And Violate Your Soul.Internal Name Spawn Friendly Hardy Explode Friendly Hardy Type Power Scaling Recharge 1 Second (25 Seconds)Base Price 2000 Damage Base Combo Damage 150 (450)Base First Hit 50 Base Second Hit 100 (Wall Damage)Base Bonus Hit 300 (Sacrifice Damage)Blueprint Location Drops From Jerkshrooms Drop Chance 100%Unlock Cost 80",
+    "infobox": {
+      "Overrideimage": "Normal Second Activation",
+      "Internal Name": "Internal Name Spawn Friendly Hardy Explode Friendly Hardy",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 1 Second (25 Seconds)",
+      "Money Cost": "Base Price 2000",
+      "Combo Dmg": "Base Combo Damage 150 (450)",
+      "First Dmg": "Base First Hit 50",
+      "Second Dmg": "Base Second Hit 100 (Wall Damage)",
+      "Extra Dmg": "Base Bonus Hit 300 (Sacrifice Damage)",
+      "Blueprint Location": "Location Drops From Jerkshrooms",
+      "Blueprint Chance": "Drop Chance 100%",
+      "Blueprint Cost": "Unlock Cost 80"
+    }
+  },
+  {
+    "name": "Lightning Rods",
+    "url": "https://deadcells.fandom.com/wiki/Lightning_Rods",
+    "type": "",
+    "long_description": "Lightning Rods Place Up To 2 Lightning Rods To Attract Lightning That Strikes All Enemies In Between.Internal Name Lightning Rod Type Power Scaling Recharge 15 Seconds Duration 5 Seconds Base Price 2250 Damage Base D Ps 30 (60)Base Hit 75 (150)Blueprint Location Drops From Failed Homunculi Drop Chance 1.7%Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Lightning Rod",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 15 Seconds",
+      "Duration": "Duration 5 Seconds",
+      "Money Cost": "Base Price 2250",
+      "Base Dps": "Base D Ps 30 (60)",
+      "Single Dmg": "Base Hit 75 (150)",
+      "Blueprint Location": "Location Drops From Failed Homunculi",
+      "Blueprint Chance": "Drop Chance 1.7%",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Scarecrow'S Sickles",
+    "url": "https://deadcells.fandom.com/wiki/Scarecrow%27s_Sickles",
+    "type": "",
+    "long_description": "Scarecrow'S Sickles Comes Back To You Automatically. Inflicts Increasingly Severecritical Hitsafter Each Hit.Perfect For Pruning Everything That Sticks Out.Internal Name Gardener Sickles Type Power Scaling Recharge 10 Seconds Base Price 1250 Damage Base D Ps 166 (273)Base First Hit 52 Base Second Hit 68 Base Third Hit 83 Base Fourth Hit 99 Base Fifth Hit 114 Base Sixth Hit 130 Blueprint Location Drops From The Scarecrow(1St Kill)Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Gardener Sickles",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 10 Seconds",
+      "Money Cost": "Base Price 1250",
+      "Base Dps": "Base D Ps 166 (273)",
+      "First Dmg": "Base First Hit 52",
+      "Second Dmg": "Base Second Hit 68",
+      "Third Dmg": "Base Third Hit 83",
+      "Fourth Dmg": "Base Fourth Hit 99",
+      "Fifth Dmg": "Base Fifth Hit 114",
+      "Sixth Dmg": "Base Sixth Hit 130",
+      "Blueprint Location": "Location Drops From The Scarecrow(1St Kill)",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  },
+  {
+    "name": "Ice Armor",
+    "url": "https://deadcells.fandom.com/wiki/Ice_Armor",
+    "type": "",
+    "long_description": "Ice Armor Covers You In Ice That Absorbs One Attack And Explodesfreezingnearby Enemies. If You Don'T Take A Hit It Explodes After 8 Seconds.So That'S What They Mean By \"Well Preserved\"?Internal Name Ice Armor Type Power Scaling Recharge 20-30 Seconds Duration 8 Seconds Base Price 1500 Damage Base Hit 10 Base Bonus Hit 25 Blueprint Location Drops From Ground Shakers Drop Chance 100%Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Ice Armor",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 20-30 Seconds",
+      "Duration": "Duration 8 Seconds",
+      "Money Cost": "Base Price 1500",
+      "Single Dmg": "Base Hit 10",
+      "Extra Dmg": "Base Bonus Hit 25",
+      "Blueprint Location": "Location Drops From Ground Shakers",
+      "Blueprint Chance": "Drop Chance 100%",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Serenade",
+    "url": "https://deadcells.fandom.com/wiki/Serenade",
+    "type": "",
+    "long_description": "Power Melee Weapon Serenade Summons A Flying Sword That Will Mark Enemies, Trigger It Again To Inflict Critical Hits On Them While Holding The Weapon, And Vice-Versa! The Sword Will Vanish After 30 Sec If You Don'T Hit The Marked Enemies.Internal Name Flying Sword Flying Sword Call Back Type Power Scaling Combo Rate One 3-Hit Combo Every 2.8 Seconds Recharge 30 Seconds Duration 30 Seconds 20 Seconds (Red Mark)Base Price 1500 Damage Base D Ps 30 (600)Base Combo Damage 84 (1680)Base First Hit 22 (440)Base Second Hit 32 (640)Base Third Hit 30 (600)Serenade Grab Serenade To Dealcritical Damageon Marked Enemies.Hit Enemies Marked By Serenade To Dealcritical Damage.Internal Name Not Flying Sword Type Melee Weapon Scaling Combo Rate One 3-Hit Combo Every 1.41 Seconds Duration 10 Seconds (Blue Mark)Base Price 1500 Damage Base D Ps 53 (213)Base Combo Damage 75 (300)Base First Hit 20 (80)Base Second Hit 25 (100)Base Third Hit 30 (120)Blueprint Location Secret Area In The Fractured Shrines Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Flying Sword Flying Sword Call Back",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate One 3-Hit Combo Every 2.8 Seconds",
+      "Recharge": "Recharge 30 Seconds",
+      "Duration": "Duration 30 Seconds 20 Seconds (Red Mark)",
+      "Money Cost": "Base Price 1500",
+      "Base Dps": "Base D Ps 30 (600)",
+      "Combo Dmg": "Base Combo Damage 84 (1680)",
+      "First Dmg": "Base First Hit 22 (440)",
+      "Second Dmg": "Base Second Hit 32 (640)",
+      "Third Dmg": "Base Third Hit 30 (600)",
+      "Internal Name 2": "Internal Name Not Flying Sword",
+      "Type 2": "Type Melee Weapon",
+      "Scaling 2": "Scaling",
+      "Combo 2": "Combo Rate One 3-Hit Combo Every 1.41 Seconds",
+      "Duration 2": "Duration 10 Seconds (Blue Mark)",
+      "Money Cost 2": "Base Price 1500",
+      "Base Dps 2": "Base D Ps 53 (213)",
+      "Combo Dmg 2": "Base Combo Damage 75 (300)",
+      "First Dmg 2": "Base First Hit 20 (80)",
+      "Second Dmg 2": "Base Second Hit 25 (100)",
+      "Third Dmg 2": "Base Third Hit 30 (120)",
+      "Blueprint Location": "Location Secret Area In The Fractured Shrines",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Cocoon",
+    "url": "https://deadcells.fandom.com/wiki/Cocoon",
+    "type": "",
+    "long_description": "Cocoon Parries All Around You Dealing 30 Damage. A Successfulparryresets The Cooldown.Internal Name Bubble Shield Power Type Power Scaling Recharge 12 Seconds (Instant Ifparryis Successful)Duration 0.35 Seconds (Stun Effect)Base Price 1500 Damage Base Hit 30 (60On A Successfulparry)Blueprint Location Found Behind One Of The Three Special Rune Doors In The Undying Shores Unlock Cost 50",
+    "infobox": {
+      "Internal Name": "Internal Name Bubble Shield Power",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 12 Seconds (Instant Ifparryis Successful)",
+      "Duration": "Duration 0.35 Seconds (Stun Effect)",
+      "Money Cost": "Base Price 1500",
+      "Single Dmg": "Base Hit 30 (60On A Successfulparry)",
+      "Blueprint Location": "Location Found Behind One Of The Three Special Rune Doors In The Undying Shores",
+      "Blueprint Cost": "Unlock Cost 50"
+    }
+  },
+  {
+    "name": "Face Flask",
+    "url": "https://deadcells.fandom.com/wiki/Face_Flask",
+    "type": "",
+    "long_description": "Face Flask Crush A Flask On Your Forehead, Dealing Low Damage To Yourself.Smashing Red Stuff In Your Own Face Is N Ev Er A Good Idea, Ask The People Of Tristram.Internal Name Face Flask Type Power Scaling Recharge 10 Seconds Duration 0.2 Seconds Base Price 2000 Damage Base Hit 5 Blueprint Location Lore Room In The Prisoners' Quarters",
+    "infobox": {
+      "Internal Name": "Internal Name Face Flask",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 10 Seconds",
+      "Duration": "Duration 0.2 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Single Dmg": "Base Hit 5",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters"
+    }
+  },
+  {
+    "name": "Pollo Power",
+    "url": "https://deadcells.fandom.com/wiki/Pollo_Power",
+    "type": "",
+    "long_description": "Pollo Power Turn Into A Chicken For A Brief Moment, Firing Several Explosive Eggs Around You.The Cluck Is Ticking.Internal Name Pollo Power Type Power Scaling Recharge 10 Seconds Duration 3.5 Seconds Base Price 2000 Damage Base Hit 45 Blueprint Location Lore Room In The Prisoners' Quarters",
+    "infobox": {
+      "Internal Name": "Internal Name Pollo Power",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 10 Seconds",
+      "Duration": "Duration 3.5 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Single Dmg": "Base Hit 45",
+      "Blueprint Location": "Location Lore Room In The Prisoners' Quarters"
+    }
+  },
+  {
+    "name": "Leghugger",
+    "url": "https://deadcells.fandom.com/wiki/Leghugger",
+    "type": "",
+    "long_description": "Normal Evolved Leghugger Normal Second Activation Summon A Leghugger That Attacks Your Enemies, Inflictingcritical Hitson Bleeding Targets. Re-Activate To Make It Attack In A Circle Around Itself, Making Enemies Hitbleed.The Creature Feeds By Attacking Your Enemies. Once Sated, It Evolves Into Its Stronger Adult State.Bloodthirsty And Cute, What More Could You Ask?Internal Name Spawn Lil Staphy Lil Staphy Stab Type Power Scaling Recharge 10 Seconds Base Price 1750 Damage Base D Ps 20 (40)Base Do T D Ps 10Bleeding Leghugger Normal Second Activation Summon An Adult Leghugger That Attacks Your Enemies, Inflictingcritical Hitson Bleeding Targets. Re-Activate To Make It Attack In A Circle Around Itself, Making Enemies Hitbleed.Bloodthirsty And Cute, What More Could You Ask?Internal Name Spawn Adult Lil Staphy Adult Lil Staphy Stab Type Power Scaling Base Price 1750 Damage Base D Ps 40 (80)Base Do T D Ps 12Bleeding Blueprint Location Lore Room In Stilt Village",
+    "infobox": {
+      "Overrideimage": "Normal Second Activation",
+      "Internal Name": "Internal Name Spawn Lil Staphy Lil Staphy Stab",
+      "Type": "Type Power",
+      "Scaling": "Scaling",
+      "Recharge": "Recharge 10 Seconds",
+      "Money Cost": "Base Price 1750",
+      "Base Dps": "Base D Ps 20 (40)",
+      "Dot Dps": "Base Do T D Ps 10Bleeding",
+      "Overrideimage 2": "Normal Second Activation",
+      "Internal Name 2": "Internal Name Spawn Adult Lil Staphy Adult Lil Staphy Stab",
+      "Type 2": "Type Power",
+      "Scaling 2": "Scaling",
+      "Money Cost 2": "Base Price 1750",
+      "Base Dps 2": "Base D Ps 40 (80)",
+      "Dot Dps 2": "Base Do T D Ps 12Bleeding",
+      "Blueprint Location": "Location Lore Room In Stilt Village"
+    }
+  },
+  {
+    "name": "Transformation",
+    "url": "https://deadcells.fandom.com/wiki/Whip_Sword",
+    "type": "",
+    "long_description": "Primary Ability Secondary Ability Sword Can Be Transformed In-Between Two Attacks To Dealcritical Damagefor The Next 1.5 Seconds.Sharp As The Snake'S Fang.Internal Name Snake Sword Weapon Type Melee Weapon Scaling Combo Rate 4-Hit Combo Every 1.68 Seconds Base Price 2000 Damage Base D Ps 217 (406)Base Combo Damage 310 (620)Base First Hit 50 (100)Base Second Hit 65 (130)Base Third Hit 95 (190)Base Fourth Hit 100 (200)Whip Can Be Transformed In-Between Two Attacks To Dealcritical Damagefor The Next 1.5 Seconds.Sinuous Like The Snake'S Coils.Internal Name Snake Sword Weapon Alt Type Melee Weapon Scaling Combo Rate 4-Hit Combo Every 1.68 Seconds Base Price 2000 Damage Base D Ps 203 (406)Base Combo Damage 285 (570)Base First Hit 45 (90)Base Second Hit 60 (120)Base Third Hit 85 (170)Base Fourth Hit 95 (190)Blueprint Location Dropped By Harpies Drop Chance(1.7%)Unlock Cost 100",
+    "infobox": {
+      "Internal Name": "Internal Name Snake Sword Weapon",
+      "Type": "Type Melee Weapon",
+      "Scaling": "Scaling",
+      "Combo": "Combo Rate 4-Hit Combo Every 1.68 Seconds",
+      "Money Cost": "Base Price 2000",
+      "Base Dps": "Base D Ps 217 (406)",
+      "Combo Dmg": "Base Combo Damage 310 (620)",
+      "First Dmg": "Base First Hit 50 (100)",
+      "Second Dmg": "Base Second Hit 65 (130)",
+      "Third Dmg": "Base Third Hit 95 (190)",
+      "Fourth Dmg": "Base Fourth Hit 100 (200)",
+      "Internal Name 2": "Internal Name Snake Sword Weapon Alt",
+      "Type 2": "Type Melee Weapon",
+      "Scaling 2": "Scaling",
+      "Combo 2": "Combo Rate 4-Hit Combo Every 1.68 Seconds",
+      "Money Cost 2": "Base Price 2000",
+      "Base Dps 2": "Base D Ps 203 (406)",
+      "Combo Dmg 2": "Base Combo Damage 285 (570)",
+      "First Dmg 2": "Base First Hit 45 (90)",
+      "Second Dmg 2": "Base Second Hit 60 (120)",
+      "Third Dmg 2": "Base Third Hit 85 (170)",
+      "Fourth Dmg 2": "Base Fourth Hit 95 (190)",
+      "Blueprint Location": "Location Dropped By Harpies",
+      "Blueprint Chance": "Drop Chance(1.7%)",
+      "Blueprint Cost": "Unlock Cost 100"
+    }
+  }
+]
